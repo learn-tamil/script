@@ -1,0 +1,1028 @@
+[
+    [
+        {
+            "label": "q",
+            "script": "ஃ"
+        },
+        {
+            "label": "a",
+            "script": "அ"
+        },
+        {
+            "label": "aa",
+            "script": "ஆ"
+        },
+        {
+            "label": "i",
+            "script": "இ"
+        },
+        {
+            "label": "ii",
+            "script": "ஈ"
+        },
+        {
+            "label": "u",
+            "script": "உ"
+        },
+        {
+            "label": "uu",
+            "script": "ஊ"
+        },
+        {
+            "label": "e",
+            "script": "எ"
+        },
+        {
+            "label": "ee",
+            "script": "ஏ"
+        },
+        {
+            "label": "ai",
+            "script": "ஐ"
+        },
+        {
+            "label": "o",
+            "script": "ஒ"
+        },
+        {
+            "label": "oo",
+            "script": "ஓ"
+        },
+        {
+            "label": "au",
+            "script": "ஔ"
+        }
+    ],
+    [
+        {
+            "label": "k",
+            "script": "க்"
+        },
+        {
+            "label": "ka",
+            "script": "க"
+        },
+        {
+            "label": "kaa",
+            "script": "கா"
+        },
+        {
+            "label": "ki",
+            "script": "கி"
+        },
+        {
+            "label": "kii",
+            "script": "கீ"
+        },
+        {
+            "label": "ku",
+            "script": "கு"
+        },
+        {
+            "label": "kuu",
+            "script": "கூ"
+        },
+        {
+            "label": "ke",
+            "script": "கெ"
+        },
+        {
+            "label": "kee",
+            "script": "கே"
+        },
+        {
+            "label": "kai",
+            "script": "கை"
+        },
+        {
+            "label": "ko",
+            "script": "கொ"
+        },
+        {
+            "label": "koo",
+            "script": "கோ"
+        },
+        {
+            "label": "kau",
+            "script": "கௌ"
+        }
+    ],
+    [
+        {
+            "label": "ng",
+            "script": "ங்"
+        },
+        {
+            "label": "nga",
+            "script": "ங"
+        },
+        {
+            "label": "ngaa",
+            "script": "ஙா"
+        },
+        {
+            "label": "ngi",
+            "script": "ஙி"
+        },
+        {
+            "label": "ngii",
+            "script": "ஙீ"
+        },
+        {
+            "label": "ngu",
+            "script": "ஙு"
+        },
+        {
+            "label": "nguu",
+            "script": "ஙூ"
+        },
+        {
+            "label": "nge",
+            "script": "ஙெ"
+        },
+        {
+            "label": "ngee",
+            "script": "ஙே"
+        },
+        {
+            "label": "ngai",
+            "script": "ஙை"
+        },
+        {
+            "label": "ngo",
+            "script": "ஙொ"
+        },
+        {
+            "label": "ngoo",
+            "script": "கோ"
+        },
+        {
+            "label": "ngau",
+            "script": "ஙௌ"
+        }
+    ],
+    [
+        {
+            "label": "c",
+            "script": "ச்"
+        },
+        {
+            "label": "sa",
+            "script": "ச"
+        },
+        {
+            "label": "saa",
+            "script": "சா"
+        },
+        {
+            "label": "si",
+            "script": "சி"
+        },
+        {
+            "label": "sii",
+            "script": "சீ"
+        },
+        {
+            "label": "su",
+            "script": "சு"
+        },
+        {
+            "label": "suu",
+            "script": "சூ"
+        },
+        {
+            "label": "se",
+            "script": "செ"
+        },
+        {
+            "label": "see",
+            "script": "சே"
+        },
+        {
+            "label": "sai",
+            "script": "சை"
+        },
+        {
+            "label": "so",
+            "script": "சொ"
+        },
+        {
+            "label": "soo",
+            "script": "சோ"
+        },
+        {
+            "label": "sau",
+            "script": "சௌ"
+        }
+    ],
+    [
+        {
+            "label": "nj",
+            "script": "ஞ்"
+        },
+        {
+            "label": "nja",
+            "script": "ஞ"
+        },
+        {
+            "label": "njaa",
+            "script": "ஞா"
+        },
+        {
+            "label": "nji",
+            "script": "ஞி"
+        },
+        {
+            "label": "njii",
+            "script": "ஞீ"
+        },
+        {
+            "label": "nju",
+            "script": "ஞு"
+        },
+        {
+            "label": "njuu",
+            "script": "ஞூ"
+        },
+        {
+            "label": "nje",
+            "script": "ஞெ"
+        },
+        {
+            "label": "njee",
+            "script": "ஞே"
+        },
+        {
+            "label": "njai",
+            "script": "ஞை"
+        },
+        {
+            "label": "njo",
+            "script": "ஞொ"
+        },
+        {
+            "label": "njoo",
+            "script": "ஞோ"
+        },
+        {
+            "label": "njau",
+            "script": "ஞௌ"
+        }
+    ],
+    [
+        {
+            "label": "d",
+            "script": "ட்"
+        },
+        {
+            "label": "da",
+            "script": "ட"
+        },
+        {
+            "label": "daa",
+            "script": "டா"
+        },
+        {
+            "label": "di",
+            "script": "டி"
+        },
+        {
+            "label": "dii",
+            "script": "டீ"
+        },
+        {
+            "label": "du",
+            "script": "டு"
+        },
+        {
+            "label": "duu",
+            "script": "டூ"
+        },
+        {
+            "label": "de",
+            "script": "டெ"
+        },
+        {
+            "label": "dee",
+            "script": "டே"
+        },
+        {
+            "label": "dai",
+            "script": "டை"
+        },
+        {
+            "label": "do",
+            "script": "டொ"
+        },
+        {
+            "label": "doo",
+            "script": "டோ"
+        },
+        {
+            "label": "dau",
+            "script": "டௌ"
+        }
+    ],
+    [
+        {
+            "label": "N",
+            "script": "ண்"
+        },
+        {
+            "label": "Na",
+            "script": "ண"
+        },
+        {
+            "label": "Naa",
+            "script": "ணா"
+        },
+        {
+            "label": "Ni",
+            "script": "ணி"
+        },
+        {
+            "label": "Nii",
+            "script": "ணீ"
+        },
+        {
+            "label": "Nu",
+            "script": "ணு"
+        },
+        {
+            "label": "Nuu",
+            "script": "ணூ"
+        },
+        {
+            "label": "Ne",
+            "script": "ணெ"
+        },
+        {
+            "label": "Nee",
+            "script": "ணே"
+        },
+        {
+            "label": "Nai",
+            "script": "ணை"
+        },
+        {
+            "label": "No",
+            "script": "ணொ"
+        },
+        {
+            "label": "Noo",
+            "script": "ணோ"
+        },
+        {
+            "label": "Nau",
+            "script": "ணௌ"
+        }
+    ],
+    [
+        {
+            "label": "th",
+            "script": "த்"
+        },
+        {
+            "label": "tha",
+            "script": "த"
+        },
+        {
+            "label": "thaa",
+            "script": "தா"
+        },
+        {
+            "label": "thi",
+            "script": "தி"
+        },
+        {
+            "label": "thii",
+            "script": "தீ"
+        },
+        {
+            "label": "thu",
+            "script": "து"
+        },
+        {
+            "label": "thuu",
+            "script": "தூ"
+        },
+        {
+            "label": "the",
+            "script": "தெ"
+        },
+        {
+            "label": "thee",
+            "script": "தே"
+        },
+        {
+            "label": "thai",
+            "script": "தை"
+        },
+        {
+            "label": "tho",
+            "script": "தொ"
+        },
+        {
+            "label": "thoo",
+            "script": "தோ"
+        },
+        {
+            "label": "thau",
+            "script": "தௌ"
+        }
+    ],
+    [
+        {
+            "label": "nth",
+            "script": "ந்"
+        },
+        {
+            "label": "ntha",
+            "script": "ந"
+        },
+        {
+            "label": "nthaa",
+            "script": "நா"
+        },
+        {
+            "label": "nthi",
+            "script": "நி"
+        },
+        {
+            "label": "nthii",
+            "script": "நீ"
+        },
+        {
+            "label": "nthu",
+            "script": "நு"
+        },
+        {
+            "label": "nthuu",
+            "script": "நூ"
+        },
+        {
+            "label": "nthe",
+            "script": "நெ"
+        },
+        {
+            "label": "nthee",
+            "script": "நே"
+        },
+        {
+            "label": "nthai",
+            "script": "நை"
+        },
+        {
+            "label": "ntho",
+            "script": "நொ"
+        },
+        {
+            "label": "nthoo",
+            "script": "நோ"
+        },
+        {
+            "label": "nthau",
+            "script": "நௌ"
+        }
+    ],
+    [
+        {
+            "label": "p",
+            "script": "ப்"
+        },
+        {
+            "label": "pa",
+            "script": "ப"
+        },
+        {
+            "label": "paa",
+            "script": "பா"
+        },
+        {
+            "label": "pi",
+            "script": "பி"
+        },
+        {
+            "label": "pii",
+            "script": "பீ"
+        },
+        {
+            "label": "pu",
+            "script": "பு"
+        },
+        {
+            "label": "puu",
+            "script": "பூ"
+        },
+        {
+            "label": "pe",
+            "script": "பெ"
+        },
+        {
+            "label": "pee",
+            "script": "பே"
+        },
+        {
+            "label": "pai",
+            "script": "பை"
+        },
+        {
+            "label": "po",
+            "script": "பொ"
+        },
+        {
+            "label": "poo",
+            "script": "போ"
+        },
+        {
+            "label": "pau",
+            "script": "பௌ"
+        }
+    ],
+    [
+        {
+            "label": "m",
+            "script": "ம்"
+        },
+        {
+            "label": "ma",
+            "script": "ம"
+        },
+        {
+            "label": "maa",
+            "script": "மா"
+        },
+        {
+            "label": "mi",
+            "script": "மி"
+        },
+        {
+            "label": "mii",
+            "script": "மீ"
+        },
+        {
+            "label": "mu",
+            "script": "மு"
+        },
+        {
+            "label": "muu",
+            "script": "மூ"
+        },
+        {
+            "label": "me",
+            "script": "மெ"
+        },
+        {
+            "label": "mee",
+            "script": "மே"
+        },
+        {
+            "label": "mai",
+            "script": "மை"
+        },
+        {
+            "label": "mo",
+            "script": "மொ"
+        },
+        {
+            "label": "moo",
+            "script": "மோ"
+        },
+        {
+            "label": "mau",
+            "script": "மௌ"
+        }
+    ],
+    [
+        {
+            "label": "y",
+            "script": "ய்"
+        },
+        {
+            "label": "ya",
+            "script": "ய"
+        },
+        {
+            "label": "yaa",
+            "script": "யா"
+        },
+        {
+            "label": "yi",
+            "script": "யி"
+        },
+        {
+            "label": "yii",
+            "script": "யீ"
+        },
+        {
+            "label": "yu",
+            "script": "யு"
+        },
+        {
+            "label": "yuu",
+            "script": "யூ"
+        },
+        {
+            "label": "ye",
+            "script": "யெ"
+        },
+        {
+            "label": "yee",
+            "script": "யே"
+        },
+        {
+            "label": "yai",
+            "script": "யை"
+        },
+        {
+            "label": "yo",
+            "script": "யொ"
+        },
+        {
+            "label": "yoo",
+            "script": "யோ"
+        },
+        {
+            "label": "yau",
+            "script": "யௌ"
+        }
+    ],
+    [
+        {
+            "label": "t",
+            "script": "ர்"
+        },
+        {
+            "label": "ra",
+            "script": "ர"
+        },
+        {
+            "label": "raa",
+            "script": "ரா"
+        },
+        {
+            "label": "ri",
+            "script": "ரி"
+        },
+        {
+            "label": "rii",
+            "script": "ரீ"
+        },
+        {
+            "label": "ru",
+            "script": "ரு"
+        },
+        {
+            "label": "ruu",
+            "script": "ரூ"
+        },
+        {
+            "label": "re",
+            "script": "ரெ"
+        },
+        {
+            "label": "ree",
+            "script": "ரே"
+        },
+        {
+            "label": "rai",
+            "script": "ரை"
+        },
+        {
+            "label": "ro",
+            "script": "ரொ"
+        },
+        {
+            "label": "roo",
+            "script": "ரோ"
+        },
+        {
+            "label": "rau",
+            "script": "ரௌ"
+        }
+    ],
+    [
+        {
+            "label": "l",
+            "script": "ல்"
+        },
+        {
+            "label": "la",
+            "script": "ல"
+        },
+        {
+            "label": "laa",
+            "script": "லா"
+        },
+        {
+            "label": "li",
+            "script": "லி"
+        },
+        {
+            "label": "lii",
+            "script": "லீ"
+        },
+        {
+            "label": "lu",
+            "script": "லு"
+        },
+        {
+            "label": "luu",
+            "script": "லூ"
+        },
+        {
+            "label": "le",
+            "script": "லெ"
+        },
+        {
+            "label": "lee",
+            "script": "லே"
+        },
+        {
+            "label": "lai",
+            "script": "லை"
+        },
+        {
+            "label": "lo",
+            "script": "லொ"
+        },
+        {
+            "label": "loo",
+            "script": "லோ"
+        },
+        {
+            "label": "lau",
+            "script": "லௌ"
+        }
+    ],
+    [
+        {
+            "label": "v",
+            "script": "வ்"
+        },
+        {
+            "label": "va",
+            "script": "வ"
+        },
+        {
+            "label": "vaa",
+            "script": "வா"
+        },
+        {
+            "label": "vi",
+            "script": "வி"
+        },
+        {
+            "label": "vii",
+            "script": "வீ"
+        },
+        {
+            "label": "vu",
+            "script": "வு"
+        },
+        {
+            "label": "vuu",
+            "script": "வூ"
+        },
+        {
+            "label": "ve",
+            "script": "வெ"
+        },
+        {
+            "label": "vee",
+            "script": "வே"
+        },
+        {
+            "label": "vai",
+            "script": "வை"
+        },
+        {
+            "label": "vo",
+            "script": "வொ"
+        },
+        {
+            "label": "voo",
+            "script": "வோ"
+        },
+        {
+            "label": "vau",
+            "script": "வௌ"
+        }
+    ],
+    [
+        {
+            "label": "zh",
+            "script": "ழ்"
+        },
+        {
+            "label": "zha",
+            "script": "ழ"
+        },
+        {
+            "label": "zhaa",
+            "script": "ழா"
+        },
+        {
+            "label": "zhi",
+            "script": "ழி"
+        },
+        {
+            "label": "zhii",
+            "script": "ழீ"
+        },
+        {
+            "label": "zhu",
+            "script": "ழு"
+        },
+        {
+            "label": "zhuu",
+            "script": "ழூ"
+        },
+        {
+            "label": "zhe",
+            "script": "ழெ"
+        },
+        {
+            "label": "zhee",
+            "script": "ழே"
+        },
+        {
+            "label": "zhai",
+            "script": "ழை"
+        },
+        {
+            "label": "zho",
+            "script": "ழொ"
+        },
+        {
+            "label": "zhoo",
+            "script": "ழோ"
+        },
+        {
+            "label": "zhau",
+            "script": "ழௌ"
+        }
+    ],
+    [
+        {
+            "label": "L",
+            "script": "ள்"
+        },
+        {
+            "label": "La",
+            "script": "ள"
+        },
+        {
+            "label": "Laa",
+            "script": "ளா"
+        },
+        {
+            "label": "Li",
+            "script": "ளி"
+        },
+        {
+            "label": "Lii",
+            "script": "ளீ"
+        },
+        {
+            "label": "Lu",
+            "script": "ளு"
+        },
+        {
+            "label": "Luu",
+            "script": "ளூ"
+        },
+        {
+            "label": "Le",
+            "script": "ளெ"
+        },
+        {
+            "label": "Lee",
+            "script": "ளே"
+        },
+        {
+            "label": "Lai",
+            "script": "ளை"
+        },
+        {
+            "label": "Lo",
+            "script": "ளொ"
+        },
+        {
+            "label": "Loo",
+            "script": "ளோ"
+        },
+        {
+            "label": "Lau",
+            "script": "ளௌ"
+        }
+    ],
+    [
+        {
+            "label": "r",
+            "script": "ற்"
+        },
+        {
+            "label": "ta",
+            "script": "ற"
+        },
+        {
+            "label": "taa",
+            "script": "றா"
+        },
+        {
+            "label": "ti",
+            "script": "றி"
+        },
+        {
+            "label": "tii",
+            "script": "றீ"
+        },
+        {
+            "label": "tu",
+            "script": "று"
+        },
+        {
+            "label": "tuu",
+            "script": "றூ"
+        },
+        {
+            "label": "te",
+            "script": "றெ"
+        },
+        {
+            "label": "tee",
+            "script": "றே"
+        },
+        {
+            "label": "tai",
+            "script": "றை"
+        },
+        {
+            "label": "to",
+            "script": "றொ"
+        },
+        {
+            "label": "too",
+            "script": "றோ"
+        },
+        {
+            "label": "tau",
+            "script": "றௌ"
+        }
+    ],
+    [
+        {
+            "label": "n",
+            "script": "ன்"
+        },
+        {
+            "label": "na",
+            "script": "ன"
+        },
+        {
+            "label": "naa",
+            "script": "னா"
+        },
+        {
+            "label": "ni",
+            "script": "னி"
+        },
+        {
+            "label": "nii",
+            "script": "னீ"
+        },
+        {
+            "label": "nu",
+            "script": "னு"
+        },
+        {
+            "label": "nuu",
+            "script": "னூ"
+        },
+        {
+            "label": "ne",
+            "script": "னெ"
+        },
+        {
+            "label": "nee",
+            "script": "னே"
+        },
+        {
+            "label": "nai",
+            "script": "னை"
+        },
+        {
+            "label": "no",
+            "script": "னொ"
+        },
+        {
+            "label": "noo",
+            "script": "னோ"
+        },
+        {
+            "label": "nau",
+            "script": "னௌ"
+        }
+    ]
+]
