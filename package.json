@@ -5,5 +5,8 @@
   "repository": "git@github.com:learn-tamil/tamil-script.git",
   "author": "Rathes Sachchithananthan <rathes@aheenam.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "devDependencies": {
+    "prettier": "^2.0.2"
+  }
 }
