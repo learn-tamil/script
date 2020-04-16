@@ -36,7 +36,8 @@
     "format": "prettier --write './src/**/*.{js,json,md,css}'",
     "lint": "tsc --noEmit && eslint '*/**/*.{js,ts,tsx}' --quiet --fix",
     "prepublish": "npm run build",
-    "test": "echo \"No tests so far\""
+    "test": "jest",
+    "test:watch": "jest --watch"
   },
   "files": [
     "lib"
