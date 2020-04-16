@@ -40,5 +40,8 @@
   },
   "files": [
     "lib"
-  ]
+  ],
+  "dependencies": {
+    "@types/jest": "^25.2.1"
+  }
 }
