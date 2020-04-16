@@ -26,6 +26,7 @@
     "build": "rollup -c",
     "format": "prettier --write './src/**/*.{js,json,md,css}'",
     "lint": "tsc --noEmit && eslint '*/**/*.{js,ts,tsx}' --quiet --fix",
-    "prepublish": "npm run build"
+    "prepublish": "npm run build",
+    "test": "echo \"No tests so far\""
   }
 }
