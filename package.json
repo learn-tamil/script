@@ -1,7 +1,8 @@
 {
   "name": "@learn-tamil/script",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "./lib/bundle.cjs.js",
+  "module": "./lib/bundle.esm.js",
   "repository": "git@github.com:learn-tamil/tamil-script.git",
   "author": "Rathes Sachchithananthan <rathes@aheenam.com>",
   "license": "MIT",
