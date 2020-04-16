@@ -1,7 +1,7 @@
 import packageJSON from './package.json';
 
 export default {
-  input: './src/index.js',
+  input: './src/index.ts',
   output: [
     {
       exports: 'named',
