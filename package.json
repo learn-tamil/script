@@ -4,7 +4,14 @@
   "main": "./lib/bundle.cjs.js",
   "module": "./lib/bundle.esm.js",
   "types": "./lib/index.d.ts",
-  "repository": "git@github.com:learn-tamil/tamil-script.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learn-tamil/tamil-script.git"
+  },
+  "bugs": {
+    "url": "https://github.com/learn-tamil/tamil-script/issues"
+  },
+  "homepage": "https://github.com/learn-tamil/tamil-script#readme",
   "author": "Rathes Sachchithananthan <rathes@aheenam.com>",
   "license": "MIT",
   "private": false,
@@ -28,5 +35,8 @@
     "lint": "tsc --noEmit && eslint '*/**/*.{js,ts,tsx}' --quiet --fix",
     "prepublish": "npm run build",
     "test": "echo \"No tests so far\""
-  }
+  },
+  "files": [
+    "lib"
+  ]
 }
