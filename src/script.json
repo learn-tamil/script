@@ -1,1273 +1,1273 @@
 [
   [
     {
-      "label": "q",
+      "phonetic": "q",
       "name": "q",
       "script": "ஃ"
     },
     {
-      "label": "a",
+      "phonetic": "a",
       "name": "a",
       "script": "அ"
     },
     {
-      "label": "aa",
+      "phonetic": "aa",
       "name": "aa",
       "script": "ஆ"
     },
     {
-      "label": "i",
+      "phonetic": "i",
       "name": "i",
       "script": "இ"
     },
     {
-      "label": "ii",
+      "phonetic": "ii",
       "name": "ii",
       "script": "ஈ"
     },
     {
-      "label": "u",
+      "phonetic": "u",
       "name": "u",
       "script": "உ"
     },
     {
-      "label": "uu",
+      "phonetic": "uu",
       "name": "uu",
       "script": "ஊ"
     },
     {
-      "label": "e",
+      "phonetic": "e",
       "name": "e",
       "script": "எ"
     },
     {
-      "label": "ee",
+      "phonetic": "ee",
       "name": "ee",
       "script": "ஏ"
     },
     {
-      "label": "ai",
+      "phonetic": "ai",
       "name": "ai",
       "script": "ஐ"
     },
     {
-      "label": "o",
+      "phonetic": "o",
       "name": "o",
       "script": "ஒ"
     },
     {
-      "label": "oo",
+      "phonetic": "oo",
       "name": "oo",
       "script": "ஓ"
     },
     {
-      "label": "au",
+      "phonetic": "au",
       "name": "au",
       "script": "ஔ"
     }
   ],
   [
     {
-      "label": "k",
+      "phonetic": "k",
       "name": "k",
       "script": "க்"
     },
     {
-      "label": "ka",
+      "phonetic": "ka",
       "name": "ka",
       "script": "க"
     },
     {
-      "label": "kaa",
+      "phonetic": "kaa",
       "name": "kaa",
       "script": "கா"
     },
     {
-      "label": "ki",
+      "phonetic": "ki",
       "name": "ki",
       "script": "கி"
     },
     {
-      "label": "kii",
+      "phonetic": "kii",
       "name": "kii",
       "script": "கீ"
     },
     {
-      "label": "ku",
+      "phonetic": "ku",
       "name": "ku",
       "script": "கு"
     },
     {
-      "label": "kuu",
+      "phonetic": "kuu",
       "name": "kuu",
       "script": "கூ"
     },
     {
-      "label": "ke",
+      "phonetic": "ke",
       "name": "ke",
       "script": "கெ"
     },
     {
-      "label": "kee",
+      "phonetic": "kee",
       "name": "kee",
       "script": "கே"
     },
     {
-      "label": "kai",
+      "phonetic": "kai",
       "name": "kai",
       "script": "கை"
     },
     {
-      "label": "ko",
+      "phonetic": "ko",
       "name": "ko",
       "script": "கொ"
     },
     {
-      "label": "koo",
+      "phonetic": "koo",
       "name": "koo",
       "script": "கோ"
     },
     {
-      "label": "kau",
+      "phonetic": "kau",
       "name": "kau",
       "script": "கௌ"
     }
   ],
   [
     {
-      "label": "ng",
+      "phonetic": "ng",
       "name": "ng",
       "script": "ங்"
     },
     {
-      "label": "nga",
+      "phonetic": "nga",
       "name": "nga",
       "script": "ங"
     },
     {
-      "label": "ngaa",
+      "phonetic": "ngaa",
       "name": "ngaa",
       "script": "ஙா"
     },
     {
-      "label": "ngi",
+      "phonetic": "ngi",
       "name": "ngi",
       "script": "ஙி"
     },
     {
-      "label": "ngii",
+      "phonetic": "ngii",
       "name": "ngii",
       "script": "ஙீ"
     },
     {
-      "label": "ngu",
+      "phonetic": "ngu",
       "name": "ngu",
       "script": "ஙு"
     },
     {
-      "label": "nguu",
+      "phonetic": "nguu",
       "name": "nguu",
       "script": "ஙூ"
     },
     {
-      "label": "nge",
+      "phonetic": "nge",
       "name": "nge",
       "script": "ஙெ"
     },
     {
-      "label": "ngee",
+      "phonetic": "ngee",
       "name": "ngee",
       "script": "ஙே"
     },
     {
-      "label": "ngai",
+      "phonetic": "ngai",
       "name": "ngai",
       "script": "ஙை"
     },
     {
-      "label": "ngo",
+      "phonetic": "ngo",
       "name": "ngo",
       "script": "ஙொ"
     },
     {
-      "label": "ngoo",
+      "phonetic": "ngoo",
       "name": "ngoo",
       "script": "கோ"
     },
     {
-      "label": "ngau",
+      "phonetic": "ngau",
       "name": "ngau",
       "script": "ஙௌ"
     }
   ],
   [
     {
-      "label": "c",
+      "phonetic": "c",
       "name": "c",
       "script": "ச்"
     },
     {
-      "label": "sa",
+      "phonetic": "sa",
       "name": "sa",
       "script": "ச"
     },
     {
-      "label": "saa",
+      "phonetic": "saa",
       "name": "saa",
       "script": "சா"
     },
     {
-      "label": "si",
+      "phonetic": "si",
       "name": "si",
       "script": "சி"
     },
     {
-      "label": "sii",
+      "phonetic": "sii",
       "name": "sii",
       "script": "சீ"
     },
     {
-      "label": "su",
+      "phonetic": "su",
       "name": "su",
       "script": "சு"
     },
     {
-      "label": "suu",
+      "phonetic": "suu",
       "name": "suu",
       "script": "சூ"
     },
     {
-      "label": "se",
+      "phonetic": "se",
       "name": "se",
       "script": "செ"
     },
     {
-      "label": "see",
+      "phonetic": "see",
       "name": "see",
       "script": "சே"
     },
     {
-      "label": "sai",
+      "phonetic": "sai",
       "name": "sai",
       "script": "சை"
     },
     {
-      "label": "so",
+      "phonetic": "so",
       "name": "so",
       "script": "சொ"
     },
     {
-      "label": "soo",
+      "phonetic": "soo",
       "name": "soo",
       "script": "சோ"
     },
     {
-      "label": "sau",
+      "phonetic": "sau",
       "name": "sau",
       "script": "சௌ"
     }
   ],
   [
     {
-      "label": "nj",
+      "phonetic": "nj",
       "name": "nj",
       "script": "ஞ்"
     },
     {
-      "label": "nja",
+      "phonetic": "nja",
       "name": "nja",
       "script": "ஞ"
     },
     {
-      "label": "njaa",
+      "phonetic": "njaa",
       "name": "njaa",
       "script": "ஞா"
     },
     {
-      "label": "nji",
+      "phonetic": "nji",
       "name": "nji",
       "script": "ஞி"
     },
     {
-      "label": "njii",
+      "phonetic": "njii",
       "name": "njii",
       "script": "ஞீ"
     },
     {
-      "label": "nju",
+      "phonetic": "nju",
       "name": "nju",
       "script": "ஞு"
     },
     {
-      "label": "njuu",
+      "phonetic": "njuu",
       "name": "njuu",
       "script": "ஞூ"
     },
     {
-      "label": "nje",
+      "phonetic": "nje",
       "name": "nje",
       "script": "ஞெ"
     },
     {
-      "label": "njee",
+      "phonetic": "njee",
       "name": "njee",
       "script": "ஞே"
     },
     {
-      "label": "njai",
+      "phonetic": "njai",
       "name": "njai",
       "script": "ஞை"
     },
     {
-      "label": "njo",
+      "phonetic": "njo",
       "name": "njo",
       "script": "ஞொ"
     },
     {
-      "label": "njoo",
+      "phonetic": "njoo",
       "name": "njoo",
       "script": "ஞோ"
     },
     {
-      "label": "njau",
+      "phonetic": "njau",
       "name": "njau",
       "script": "ஞௌ"
     }
   ],
   [
     {
-      "label": "d",
+      "phonetic": "d",
       "name": "d",
       "script": "ட்"
     },
     {
-      "label": "da",
+      "phonetic": "da",
       "name": "da",
       "script": "ட"
     },
     {
-      "label": "daa",
+      "phonetic": "daa",
       "name": "daa",
       "script": "டா"
     },
     {
-      "label": "di",
+      "phonetic": "di",
       "name": "di",
       "script": "டி"
     },
     {
-      "label": "dii",
+      "phonetic": "dii",
       "name": "dii",
       "script": "டீ"
     },
     {
-      "label": "du",
+      "phonetic": "du",
       "name": "du",
       "script": "டு"
     },
     {
-      "label": "duu",
+      "phonetic": "duu",
       "name": "duu",
       "script": "டூ"
     },
     {
-      "label": "de",
+      "phonetic": "de",
       "name": "de",
       "script": "டெ"
     },
     {
-      "label": "dee",
+      "phonetic": "dee",
       "name": "dee",
       "script": "டே"
     },
     {
-      "label": "dai",
+      "phonetic": "dai",
       "name": "dai",
       "script": "டை"
     },
     {
-      "label": "do",
+      "phonetic": "do",
       "name": "do",
       "script": "டொ"
     },
     {
-      "label": "doo",
+      "phonetic": "doo",
       "name": "doo",
       "script": "டோ"
     },
     {
-      "label": "dau",
+      "phonetic": "dau",
       "name": "dau",
       "script": "டௌ"
     }
   ],
   [
     {
-      "label": "N",
+      "phonetic": "N",
       "name": "nn",
       "script": "ண்"
     },
     {
-      "label": "Na",
+      "phonetic": "Na",
       "name": "nna",
       "script": "ண"
     },
     {
-      "label": "Naa",
+      "phonetic": "Naa",
       "name": "nnaa",
       "script": "ணா"
     },
     {
-      "label": "Ni",
+      "phonetic": "Ni",
       "name": "nni",
       "script": "ணி"
     },
     {
-      "label": "Nii",
+      "phonetic": "Nii",
       "name": "nnii",
       "script": "ணீ"
     },
     {
-      "label": "Nu",
+      "phonetic": "Nu",
       "name": "nnu",
       "script": "ணு"
     },
     {
-      "label": "Nuu",
+      "phonetic": "Nuu",
       "name": "nnuu",
       "script": "ணூ"
     },
     {
-      "label": "Ne",
+      "phonetic": "Ne",
       "name": "nne",
       "script": "ணெ"
     },
     {
-      "label": "Nee",
+      "phonetic": "Nee",
       "name": "nnee",
       "script": "ணே"
     },
     {
-      "label": "Nai",
+      "phonetic": "Nai",
       "name": "nnai",
       "script": "ணை"
     },
     {
-      "label": "No",
+      "phonetic": "No",
       "name": "nno",
       "script": "ணொ"
     },
     {
-      "label": "Noo",
+      "phonetic": "Noo",
       "name": "nnoo",
       "script": "ணோ"
     },
     {
-      "label": "Nau",
+      "phonetic": "Nau",
       "name": "nnau",
       "script": "ணௌ"
     }
   ],
   [
     {
-      "label": "th",
+      "phonetic": "th",
       "name": "th",
       "script": "த்"
     },
     {
-      "label": "tha",
+      "phonetic": "tha",
       "name": "tha",
       "script": "த"
     },
     {
-      "label": "thaa",
+      "phonetic": "thaa",
       "name": "thaa",
       "script": "தா"
     },
     {
-      "label": "thi",
+      "phonetic": "thi",
       "name": "thi",
       "script": "தி"
     },
     {
-      "label": "thii",
+      "phonetic": "thii",
       "name": "thii",
       "script": "தீ"
     },
     {
-      "label": "thu",
+      "phonetic": "thu",
       "name": "thu",
       "script": "து"
     },
     {
-      "label": "thuu",
+      "phonetic": "thuu",
       "name": "thuu",
       "script": "தூ"
     },
     {
-      "label": "the",
+      "phonetic": "the",
       "name": "the",
       "script": "தெ"
     },
     {
-      "label": "thee",
+      "phonetic": "thee",
       "name": "thee",
       "script": "தே"
     },
     {
-      "label": "thai",
+      "phonetic": "thai",
       "name": "thai",
       "script": "தை"
     },
     {
-      "label": "tho",
+      "phonetic": "tho",
       "name": "tho",
       "script": "தொ"
     },
     {
-      "label": "thoo",
+      "phonetic": "thoo",
       "name": "thoo",
       "script": "தோ"
     },
     {
-      "label": "thau",
+      "phonetic": "thau",
       "name": "thau",
       "script": "தௌ"
     }
   ],
   [
     {
-      "label": "nth",
+      "phonetic": "nth",
       "name": "nth",
       "script": "ந்"
     },
     {
-      "label": "na",
+      "phonetic": "na",
       "name": "ntha",
       "script": "ந"
     },
     {
-      "label": "naa",
+      "phonetic": "naa",
       "name": "nthaa",
       "script": "நா"
     },
     {
-      "label": "ni",
+      "phonetic": "ni",
       "name": "nthi",
       "script": "நி"
     },
     {
-      "label": "nii",
+      "phonetic": "nii",
       "name": "nthii",
       "script": "நீ"
     },
     {
-      "label": "nu",
+      "phonetic": "nu",
       "name": "nthu",
       "script": "நு"
     },
     {
-      "label": "nuu",
+      "phonetic": "nuu",
       "name": "nthuu",
       "script": "நூ"
     },
     {
-      "label": "ne",
+      "phonetic": "ne",
       "name": "nthe",
       "script": "நெ"
     },
     {
-      "label": "nee",
+      "phonetic": "nee",
       "name": "nthee",
       "script": "நே"
     },
     {
-      "label": "nai",
+      "phonetic": "nai",
       "name": "nthai",
       "script": "நை"
     },
     {
-      "label": "no",
+      "phonetic": "no",
       "name": "ntho",
       "script": "நொ"
     },
     {
-      "label": "noo",
+      "phonetic": "noo",
       "name": "nthoo",
       "script": "நோ"
     },
     {
-      "label": "nau",
+      "phonetic": "nau",
       "name": "nthau",
       "script": "நௌ"
     }
   ],
   [
     {
-      "label": "p",
+      "phonetic": "p",
       "name": "p",
       "script": "ப்"
     },
     {
-      "label": "pa",
+      "phonetic": "pa",
       "name": "pa",
       "script": "ப"
     },
     {
-      "label": "paa",
+      "phonetic": "paa",
       "name": "paa",
       "script": "பா"
     },
     {
-      "label": "pi",
+      "phonetic": "pi",
       "name": "pi",
       "script": "பி"
     },
     {
-      "label": "pii",
+      "phonetic": "pii",
       "name": "pii",
       "script": "பீ"
     },
     {
-      "label": "pu",
+      "phonetic": "pu",
       "name": "pu",
       "script": "பு"
     },
     {
-      "label": "puu",
+      "phonetic": "puu",
       "name": "puu",
       "script": "பூ"
     },
     {
-      "label": "pe",
+      "phonetic": "pe",
       "name": "pe",
       "script": "பெ"
     },
     {
-      "label": "pee",
+      "phonetic": "pee",
       "name": "pee",
       "script": "பே"
     },
     {
-      "label": "pai",
+      "phonetic": "pai",
       "name": "pai",
       "script": "பை"
     },
     {
-      "label": "po",
+      "phonetic": "po",
       "name": "po",
       "script": "பொ"
     },
     {
-      "label": "poo",
+      "phonetic": "poo",
       "name": "poo",
       "script": "போ"
     },
     {
-      "label": "pau",
+      "phonetic": "pau",
       "name": "pau",
       "script": "பௌ"
     }
   ],
   [
     {
-      "label": "m",
+      "phonetic": "m",
       "name": "m",
       "script": "ம்"
     },
     {
-      "label": "ma",
+      "phonetic": "ma",
       "name": "ma",
       "script": "ம"
     },
     {
-      "label": "maa",
+      "phonetic": "maa",
       "name": "maa",
       "script": "மா"
     },
     {
-      "label": "mi",
+      "phonetic": "mi",
       "name": "mi",
       "script": "மி"
     },
     {
-      "label": "mii",
+      "phonetic": "mii",
       "name": "mii",
       "script": "மீ"
     },
     {
-      "label": "mu",
+      "phonetic": "mu",
       "name": "mu",
       "script": "மு"
     },
     {
-      "label": "muu",
+      "phonetic": "muu",
       "name": "muu",
       "script": "மூ"
     },
     {
-      "label": "me",
+      "phonetic": "me",
       "name": "me",
       "script": "மெ"
     },
     {
-      "label": "mee",
+      "phonetic": "mee",
       "name": "mee",
       "script": "மே"
     },
     {
-      "label": "mai",
+      "phonetic": "mai",
       "name": "mai",
       "script": "மை"
     },
     {
-      "label": "mo",
+      "phonetic": "mo",
       "name": "mo",
       "script": "மொ"
     },
     {
-      "label": "moo",
+      "phonetic": "moo",
       "name": "moo",
       "script": "மோ"
     },
     {
-      "label": "mau",
+      "phonetic": "mau",
       "name": "mau",
       "script": "மௌ"
     }
   ],
   [
     {
-      "label": "y",
+      "phonetic": "y",
       "name": "y",
       "script": "ய்"
     },
     {
-      "label": "ya",
+      "phonetic": "ya",
       "name": "ya",
       "script": "ய"
     },
     {
-      "label": "yaa",
+      "phonetic": "yaa",
       "name": "yaa",
       "script": "யா"
     },
     {
-      "label": "yi",
+      "phonetic": "yi",
       "name": "yi",
       "script": "யி"
     },
     {
-      "label": "yii",
+      "phonetic": "yii",
       "name": "yii",
       "script": "யீ"
     },
     {
-      "label": "yu",
+      "phonetic": "yu",
       "name": "yu",
       "script": "யு"
     },
     {
-      "label": "yuu",
+      "phonetic": "yuu",
       "name": "yuu",
       "script": "யூ"
     },
     {
-      "label": "ye",
+      "phonetic": "ye",
       "name": "ye",
       "script": "யெ"
     },
     {
-      "label": "yee",
+      "phonetic": "yee",
       "name": "yee",
       "script": "யே"
     },
     {
-      "label": "yai",
+      "phonetic": "yai",
       "name": "yai",
       "script": "யை"
     },
     {
-      "label": "yo",
+      "phonetic": "yo",
       "name": "yo",
       "script": "யொ"
     },
     {
-      "label": "yoo",
+      "phonetic": "yoo",
       "name": "yoo",
       "script": "யோ"
     },
     {
-      "label": "yau",
+      "phonetic": "yau",
       "name": "yau",
       "script": "யௌ"
     }
   ],
   [
     {
-      "label": "r",
+      "phonetic": "r",
       "name": "r",
       "script": "ர்"
     },
     {
-      "label": "ta",
+      "phonetic": "ta",
       "name": "ta",
       "script": "ர"
     },
     {
-      "label": "taa",
+      "phonetic": "taa",
       "name": "taa",
       "script": "ரா"
     },
     {
-      "label": "ti",
+      "phonetic": "ti",
       "name": "ti",
       "script": "ரி"
     },
     {
-      "label": "tii",
+      "phonetic": "tii",
       "name": "tii",
       "script": "ரீ"
     },
     {
-      "label": "tu",
+      "phonetic": "tu",
       "name": "tu",
       "script": "ரு"
     },
     {
-      "label": "tuu",
+      "phonetic": "tuu",
       "name": "tuu",
       "script": "ரூ"
     },
     {
-      "label": "te",
+      "phonetic": "te",
       "name": "te",
       "script": "ரெ"
     },
     {
-      "label": "tee",
+      "phonetic": "tee",
       "name": "tee",
       "script": "ரே"
     },
     {
-      "label": "tai",
+      "phonetic": "tai",
       "name": "tai",
       "script": "ரை"
     },
     {
-      "label": "to",
+      "phonetic": "to",
       "name": "to",
       "script": "ரொ"
     },
     {
-      "label": "too",
+      "phonetic": "too",
       "name": "too",
       "script": "ரோ"
     },
     {
-      "label": "tau",
+      "phonetic": "tau",
       "name": "tau",
       "script": "ரௌ"
     }
   ],
   [
     {
-      "label": "l",
+      "phonetic": "l",
       "name": "l",
       "script": "ல்"
     },
     {
-      "label": "la",
+      "phonetic": "la",
       "name": "la",
       "script": "ல"
     },
     {
-      "label": "laa",
+      "phonetic": "laa",
       "name": "laa",
       "script": "லா"
     },
     {
-      "label": "li",
+      "phonetic": "li",
       "name": "li",
       "script": "லி"
     },
     {
-      "label": "lii",
+      "phonetic": "lii",
       "name": "lii",
       "script": "லீ"
     },
     {
-      "label": "lu",
+      "phonetic": "lu",
       "name": "lu",
       "script": "லு"
     },
     {
-      "label": "luu",
+      "phonetic": "luu",
       "name": "luu",
       "script": "லூ"
     },
     {
-      "label": "le",
+      "phonetic": "le",
       "name": "le",
       "script": "லெ"
     },
     {
-      "label": "lee",
+      "phonetic": "lee",
       "name": "lee",
       "script": "லே"
     },
     {
-      "label": "lai",
+      "phonetic": "lai",
       "name": "lai",
       "script": "லை"
     },
     {
-      "label": "lo",
+      "phonetic": "lo",
       "name": "lo",
       "script": "லொ"
     },
     {
-      "label": "loo",
+      "phonetic": "loo",
       "name": "loo",
       "script": "லோ"
     },
     {
-      "label": "lau",
+      "phonetic": "lau",
       "name": "lau",
       "script": "லௌ"
     }
   ],
   [
     {
-      "label": "v",
+      "phonetic": "v",
       "name": "v",
       "script": "வ்"
     },
     {
-      "label": "va",
+      "phonetic": "va",
       "name": "va",
       "script": "வ"
     },
     {
-      "label": "vaa",
+      "phonetic": "vaa",
       "name": "vaa",
       "script": "வா"
     },
     {
-      "label": "vi",
+      "phonetic": "vi",
       "name": "vi",
       "script": "வி"
     },
     {
-      "label": "vii",
+      "phonetic": "vii",
       "name": "vii",
       "script": "வீ"
     },
     {
-      "label": "vu",
+      "phonetic": "vu",
       "name": "vu",
       "script": "வு"
     },
     {
-      "label": "vuu",
+      "phonetic": "vuu",
       "name": "vuu",
       "script": "வூ"
     },
     {
-      "label": "ve",
+      "phonetic": "ve",
       "name": "ve",
       "script": "வெ"
     },
     {
-      "label": "vee",
+      "phonetic": "vee",
       "name": "vee",
       "script": "வே"
     },
     {
-      "label": "vai",
+      "phonetic": "vai",
       "name": "vai",
       "script": "வை"
     },
     {
-      "label": "vo",
+      "phonetic": "vo",
       "name": "vo",
       "script": "வொ"
     },
     {
-      "label": "voo",
+      "phonetic": "voo",
       "name": "voo",
       "script": "வோ"
     },
     {
-      "label": "vau",
+      "phonetic": "vau",
       "name": "vau",
       "script": "வௌ"
     }
   ],
   [
     {
-      "label": "zh",
+      "phonetic": "zh",
       "name": "zh",
       "script": "ழ்"
     },
     {
-      "label": "zha",
+      "phonetic": "zha",
       "name": "zha",
       "script": "ழ"
     },
     {
-      "label": "zhaa",
+      "phonetic": "zhaa",
       "name": "zhaa",
       "script": "ழா"
     },
     {
-      "label": "zhi",
+      "phonetic": "zhi",
       "name": "zhi",
       "script": "ழி"
     },
     {
-      "label": "zhii",
+      "phonetic": "zhii",
       "name": "zhii",
       "script": "ழீ"
     },
     {
-      "label": "zhu",
+      "phonetic": "zhu",
       "name": "zhu",
       "script": "ழு"
     },
     {
-      "label": "zhuu",
+      "phonetic": "zhuu",
       "name": "zhuu",
       "script": "ழூ"
     },
     {
-      "label": "zhe",
+      "phonetic": "zhe",
       "name": "zhe",
       "script": "ழெ"
     },
     {
-      "label": "zhee",
+      "phonetic": "zhee",
       "name": "zhee",
       "script": "ழே"
     },
     {
-      "label": "zhai",
+      "phonetic": "zhai",
       "name": "zhai",
       "script": "ழை"
     },
     {
-      "label": "zho",
+      "phonetic": "zho",
       "name": "zho",
       "script": "ழொ"
     },
     {
-      "label": "zhoo",
+      "phonetic": "zhoo",
       "name": "zhoo",
       "script": "ழோ"
     },
     {
-      "label": "zhau",
+      "phonetic": "zhau",
       "name": "zhau",
       "script": "ழௌ"
     }
   ],
   [
     {
-      "label": "L",
+      "phonetic": "L",
       "name": "ll",
       "script": "ள்"
     },
     {
-      "label": "La",
+      "phonetic": "La",
       "name": "lla",
       "script": "ள"
     },
     {
-      "label": "Laa",
+      "phonetic": "Laa",
       "name": "llaa",
       "script": "ளா"
     },
     {
-      "label": "Li",
+      "phonetic": "Li",
       "name": "lli",
       "script": "ளி"
     },
     {
-      "label": "Lii",
+      "phonetic": "Lii",
       "name": "llii",
       "script": "ளீ"
     },
     {
-      "label": "Lu",
+      "phonetic": "Lu",
       "name": "llu",
       "script": "ளு"
     },
     {
-      "label": "Luu",
+      "phonetic": "Luu",
       "name": "lluu",
       "script": "ளூ"
     },
     {
-      "label": "Le",
+      "phonetic": "Le",
       "name": "lle",
       "script": "ளெ"
     },
     {
-      "label": "Lee",
+      "phonetic": "Lee",
       "name": "llee",
       "script": "ளே"
     },
     {
-      "label": "Lai",
+      "phonetic": "Lai",
       "name": "llai",
       "script": "ளை"
     },
     {
-      "label": "Lo",
+      "phonetic": "Lo",
       "name": "llo",
       "script": "ளொ"
     },
     {
-      "label": "Loo",
+      "phonetic": "Loo",
       "name": "lloo",
       "script": "ளோ"
     },
     {
-      "label": "Lau",
+      "phonetic": "Lau",
       "name": "llau",
       "script": "ளௌ"
     }
   ],
   [
     {
-      "label": "t",
+      "phonetic": "t",
       "name": "t",
       "script": "ற்"
     },
     {
-      "label": "ra",
+      "phonetic": "ra",
       "name": "ra",
       "script": "ற"
     },
     {
-      "label": "raa",
+      "phonetic": "raa",
       "name": "raa",
       "script": "றா"
     },
     {
-      "label": "ri",
+      "phonetic": "ri",
       "name": "ri",
       "script": "றி"
     },
     {
-      "label": "rii",
+      "phonetic": "rii",
       "name": "rii",
       "script": "றீ"
     },
     {
-      "label": "ru",
+      "phonetic": "ru",
       "name": "ru",
       "script": "று"
     },
     {
-      "label": "ruu",
+      "phonetic": "ruu",
       "name": "ruu",
       "script": "றூ"
     },
     {
-      "label": "re",
+      "phonetic": "re",
       "name": "re",
       "script": "றெ"
     },
     {
-      "label": "ree",
+      "phonetic": "ree",
       "name": "ree",
       "script": "றே"
     },
     {
-      "label": "rai",
+      "phonetic": "rai",
       "name": "rai",
       "script": "றை"
     },
     {
-      "label": "ro",
+      "phonetic": "ro",
       "name": "ro",
       "script": "றொ"
     },
     {
-      "label": "roo",
+      "phonetic": "roo",
       "name": "roo",
       "script": "றோ"
     },
     {
-      "label": "rau",
+      "phonetic": "rau",
       "name": "rau",
       "script": "றௌ"
     }
   ],
   [
     {
-      "label": "n",
+      "phonetic": "n",
       "name": "n",
       "script": "ன்"
     },
     {
-      "label": "na",
+      "phonetic": "na",
       "name": "na",
       "script": "ன"
     },
     {
-      "label": "naa",
+      "phonetic": "naa",
       "name": "naa",
       "script": "னா"
     },
     {
-      "label": "ni",
+      "phonetic": "ni",
       "name": "ni",
       "script": "னி"
     },
     {
-      "label": "nii",
+      "phonetic": "nii",
       "name": "nii",
       "script": "னீ"
     },
     {
-      "label": "nu",
+      "phonetic": "nu",
       "name": "nu",
       "script": "னு"
     },
     {
-      "label": "nuu",
+      "phonetic": "nuu",
       "name": "nuu",
       "script": "னூ"
     },
     {
-      "label": "ne",
+      "phonetic": "ne",
       "name": "ne",
       "script": "னெ"
     },
     {
-      "label": "nee",
+      "phonetic": "nee",
       "name": "nee",
       "script": "னே"
     },
     {
-      "label": "nai",
+      "phonetic": "nai",
       "name": "nai",
       "script": "னை"
     },
     {
-      "label": "no",
+      "phonetic": "no",
       "name": "no",
       "script": "னொ"
     },
     {
-      "label": "noo",
+      "phonetic": "noo",
       "name": "noo",
       "script": "னோ"
     },
     {
-      "label": "nau",
+      "phonetic": "nau",
       "name": "nau",
       "script": "னௌ"
     }
