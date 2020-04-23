@@ -26,7 +26,7 @@
     "jest": "^25.4.0",
     "prettier": "^2.0.5",
     "pretty-quick": "^2.0.1",
-    "rollup": "^2.7.1",
+    "rollup": "^2.7.2",
     "rollup-plugin-typescript2": "^0.27.0",
     "ts-jest": "^25.4.0",
     "typescript": "^3.8.3"
