@@ -43,6 +43,6 @@
     "lib"
   ],
   "dependencies": {
-    "@types/jest": "^25.2.3"
+    "@types/jest": "^26.0.0"
   }
 }
