@@ -1,6 +1,6 @@
 {
   "name": "@learn-tamil/script",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "main": "./lib/bundle.cjs.js",
   "module": "./lib/bundle.esm.js",
   "types": "./lib/index.d.ts",
