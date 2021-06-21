@@ -29,7 +29,7 @@
     "rollup": "^2.52.1",
     "rollup-plugin-typescript2": "^0.30.0",
     "ts-jest": "^25.5.1",
-    "typescript": "^3.9.9"
+    "typescript": "^3.9.10"
   },
   "scripts": {
     "build": "rollup -c",
