@@ -16,6 +16,7 @@
   "license": "MIT",
   "private": false,
   "devDependencies": {
+    "@types/jest": "^26.0.24",
     "@rollup/plugin-json": "^4.1.0",
     "@typescript-eslint/eslint-plugin": "^4.28.5",
     "@typescript-eslint/parser": "^4.28.5",
@@ -41,8 +42,5 @@
   },
   "files": [
     "lib"
-  ],
-  "dependencies": {
-    "@types/jest": "^26.0.24"
-  }
+  ]
 }
