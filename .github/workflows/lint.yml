@@ -1,0 +1,36 @@
+name: Code Style
+
+on:
+  pull_request:
+    branches: [main]
+
+jobs:
+  prettier:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout codebase
+        uses: actions/checkout@v2
+      - name: Install dependencies
+        run: yarn install
+      - name: Check prettier
+        run: yarn format --check
+
+  eslint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout codebase
+        uses: actions/checkout@v2
+      - name: Install dependencies
+        run: yarn install
+      - name: Check eslint
+        run: yarn eslint
+
+  type-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout codebase
+        uses: actions/checkout@v2
+      - name: Install dependencies
+        run: yarn install
+      - name: Check types
+        run: yarn tsc --noEmitt
