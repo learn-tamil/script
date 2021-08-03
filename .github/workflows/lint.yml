@@ -33,4 +33,4 @@ jobs:
       - name: Install dependencies
         run: yarn install
       - name: Check types
-        run: yarn tsc --noEmitt
+        run: yarn tsc --noEmit
