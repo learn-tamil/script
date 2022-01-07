@@ -23,7 +23,7 @@
     "eslint": "^7.32.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier": "^4.0.0",
-    "jest": "^27.4.5",
+    "jest": "^27.4.7",
     "prettier": "^2.5.1",
     "rollup": "^2.63.0",
     "rollup-plugin-typescript2": "^0.31.1",
