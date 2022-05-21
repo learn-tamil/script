@@ -1,9 +1,8 @@
 {
   "name": "@learn-tamil/script",
   "version": "0.0.13",
-  "main": "./lib/bundle.cjs.js",
-  "module": "./lib/bundle.esm.js",
-  "types": "./lib/index.d.ts",
+  "exports": "./lib/index.js",
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/learn-tamil/tamil-script.git"
@@ -32,7 +31,7 @@
     "typescript": "^4.6.4"
   },
   "scripts": {
-    "build": "rollup -c",
+    "build": "rm -rf ./lib && esbuild ./src/index.ts --bundle --outfile=./lib/index.js",
     "format": "prettier --write './src/**/*.{js,json,md,css}'",
     "lint": "tsc --noEmit && eslint '*/**/*.{js,ts,tsx}' --quiet --fix",
     "prepublish": "yarn build",
