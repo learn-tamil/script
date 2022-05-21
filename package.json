@@ -1,6 +1,6 @@
 {
   "name": "@learn-tamil/script",
-  "version": "0.0.13",
+  "version": "0.1.0",
   "exports": "./lib/index.js",
   "type": "module",
   "repository": {
