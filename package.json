@@ -1,9 +1,8 @@
 {
   "name": "@learn-tamil/script",
   "version": "0.0.13",
-  "main": "./lib/bundle.cjs.js",
-  "module": "./lib/bundle.esm.js",
-  "types": "./lib/index.d.ts",
+  "exports": "./lib/index.js",
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/learn-tamil/tamil-script.git"
@@ -16,22 +15,20 @@
   "license": "MIT",
   "private": false,
   "devDependencies": {
-    "@rollup/plugin-json": "^4.1.0",
     "@types/jest": "^27.5.1",
     "@typescript-eslint/eslint-plugin": "^5.25.0",
     "@typescript-eslint/parser": "^5.25.0",
+    "esbuild": "^0.14.39",
     "eslint": "^8.16.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.0.0",
     "jest": "^28.1.0",
     "prettier": "^2.6.2",
-    "rollup": "^2.74.1",
-    "rollup-plugin-typescript2": "^0.31.2",
     "ts-jest": "^28.0.2",
     "typescript": "^4.6.4"
   },
   "scripts": {
-    "build": "rollup -c",
+    "build": "rm -rf ./lib && esbuild ./src/index.ts --bundle --outfile=./lib/index.js",
     "format": "prettier --write './src/**/*.{js,json,md,css}'",
     "lint": "tsc --noEmit && eslint '*/**/*.{js,ts,tsx}' --quiet --fix",
     "prepublish": "yarn build",
