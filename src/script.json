@@ -96,67 +96,93 @@
     {
       "phonetic": "k",
       "name": "k",
-      "script": "க்"
+      "script": "க்",
+      "iso15919": "k",
+      "ipa": "k"
     },
     {
       "phonetic": "ka",
       "name": "ka",
-      "script": "க"
+      "script": "க",
+      "iso15919": "ka",
+      "ipa": "ka"
     },
     {
       "phonetic": "kaa",
       "name": "kaa",
-      "script": "கா"
+      "script": "கா",
+      "iso15919": "kā",
+      "ipa": "kaː"
     },
     {
       "phonetic": "ki",
       "name": "ki",
-      "script": "கி"
+      "script": "கி",
+      "iso15919": "ki",
+      "ipa": "ki"
     },
     {
       "phonetic": "kii",
       "name": "kii",
-      "script": "கீ"
+      "script": "கீ",
+      "iso15919": "kī",
+      "ipa": "kiː"
     },
     {
       "phonetic": "ku",
       "name": "ku",
-      "script": "கு"
+      "script": "கு",
+      "iso15919": "ku",
+      "ipa": "ku"
     },
     {
       "phonetic": "kuu",
       "name": "kuu",
-      "script": "கூ"
+      "script": "கூ",
+      "iso15919": "kū",
+      "ipa": "kuː"
     },
     {
       "phonetic": "ke",
       "name": "ke",
-      "script": "கெ"
+      "script": "கெ",
+      "iso15919": "ke",
+      "ipa": "ke"
     },
     {
       "phonetic": "kee",
       "name": "kee",
-      "script": "கே"
+      "script": "கே",
+      "iso15919": "kē",
+      "ipa": "keː"
     },
     {
       "phonetic": "kai",
       "name": "kai",
-      "script": "கை"
+      "script": "கை",
+      "iso15919": "kai",
+      "ipa": "kaɪ"
     },
     {
       "phonetic": "ko",
       "name": "ko",
-      "script": "கொ"
+      "script": "கொ",
+      "iso15919": "ko",
+      "ipa": "ko"
     },
     {
       "phonetic": "koo",
       "name": "koo",
-      "script": "கோ"
+      "script": "கோ",
+      "iso15919": "kō",
+      "ipa": "koː"
     },
     {
       "phonetic": "kau",
       "name": "kau",
-      "script": "கௌ"
+      "script": "கௌ",
+      "iso15919": "kau",
+      "ipa": "kaʊ"
     }
   ],
   [
