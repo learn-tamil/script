@@ -3,67 +3,93 @@
     {
       "phonetic": "q",
       "name": "q",
-      "script": "ஃ"
+      "script": "ஃ",
+      "iso15919": "x",
+      "ipa": "ḵ"
     },
     {
       "phonetic": "a",
       "name": "a",
-      "script": "அ"
+      "script": "அ",
+      "iso15919": "a",
+      "ipa": "a"
     },
     {
       "phonetic": "aa",
       "name": "aa",
-      "script": "ஆ"
+      "script": "ஆ",
+      "iso15919": "ā",
+      "ipa": "aː"
     },
     {
       "phonetic": "i",
       "name": "i",
-      "script": "இ"
+      "script": "இ",
+      "iso15919": "i",
+      "ipa": "i"
     },
     {
       "phonetic": "ii",
       "name": "ii",
-      "script": "ஈ"
+      "script": "ஈ",
+      "iso15919": "ī",
+      "ipa": "iː"
     },
     {
       "phonetic": "u",
       "name": "u",
-      "script": "உ"
+      "script": "உ",
+      "iso15919": "u",
+      "ipa": "u"
     },
     {
       "phonetic": "uu",
       "name": "uu",
-      "script": "ஊ"
+      "script": "ஊ",
+      "iso15919": "ū",
+      "ipa": "uː"
     },
     {
       "phonetic": "e",
       "name": "e",
-      "script": "எ"
+      "script": "எ",
+      "iso15919": "e",
+      "ipa": "e"
     },
     {
       "phonetic": "ee",
       "name": "ee",
-      "script": "ஏ"
+      "script": "ஏ",
+      "iso15919": "ē",
+      "ipa": "eː"
     },
     {
       "phonetic": "ai",
       "name": "ai",
-      "script": "ஐ"
+      "script": "ஐ",
+      "iso15919": "ai",
+      "ipa": "aɪ"
     },
     {
       "phonetic": "o",
       "name": "o",
-      "script": "ஒ"
+      "script": "ஒ",
+      "iso15919": "o",
+      "ipa": "o"
     },
     {
       "phonetic": "oo",
       "name": "oo",
-      "script": "ஓ"
+      "script": "ஓ",
+      "iso15919": "ō",
+      "ipa": "oː"
     },
     {
       "phonetic": "au",
       "name": "au",
-      "script": "ஔ"
+      "script": "ஔ",
+      "iso15919": "au",
+      "ipa": "aʊ"
     }
   ],
   [
