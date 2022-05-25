@@ -189,67 +189,93 @@
     {
       "phonetic": "ng",
       "name": "ng",
-      "script": "ங்"
+      "script": "ங்",
+      "iso15919": "ṅ",
+      "ipa": "ŋ"
     },
     {
       "phonetic": "nga",
       "name": "nga",
-      "script": "ங"
+      "script": "ங",
+      "iso15919": "ṅa",
+      "ipa": "ŋa"
     },
     {
       "phonetic": "ngaa",
       "name": "ngaa",
-      "script": "ஙா"
+      "script": "ஙா",
+      "iso15919": "ṅā",
+      "ipa": "ŋaː"
     },
     {
       "phonetic": "ngi",
       "name": "ngi",
-      "script": "ஙி"
+      "script": "ஙி",
+      "iso15919": "ṅi",
+      "ipa": "ŋi"
     },
     {
       "phonetic": "ngii",
       "name": "ngii",
-      "script": "ஙீ"
+      "script": "ஙீ",
+      "iso15919": "ṅī",
+      "ipa": "ŋiː"
     },
     {
       "phonetic": "ngu",
       "name": "ngu",
-      "script": "ஙு"
+      "script": "ஙு",
+      "iso15919": "ṅu",
+      "ipa": "ŋu"
     },
     {
       "phonetic": "nguu",
       "name": "nguu",
-      "script": "ஙூ"
+      "script": "ஙூ",
+      "iso15919": "ṅū",
+      "ipa": "ŋuː"
     },
     {
       "phonetic": "nge",
       "name": "nge",
-      "script": "ஙெ"
+      "script": "ஙெ",
+      "iso15919": "ṅe",
+      "ipa": "ŋe"
     },
     {
       "phonetic": "ngee",
       "name": "ngee",
-      "script": "ஙே"
+      "script": "ஙே",
+      "iso15919": "ṅē",
+      "ipa": "ŋeː"
     },
     {
       "phonetic": "ngai",
       "name": "ngai",
-      "script": "ஙை"
+      "script": "ஙை",
+      "iso15919": "ṅai",
+      "ipa": "ŋaɪ"
     },
     {
       "phonetic": "ngo",
       "name": "ngo",
-      "script": "ஙொ"
+      "script": "ஙொ",
+      "iso15919": "ṅo",
+      "ipa": "ŋo"
     },
     {
       "phonetic": "ngoo",
       "name": "ngoo",
-      "script": "கோ"
+      "script": "ஙோ",
+      "iso15919": "ṅō",
+      "ipa": "ŋoː"
     },
     {
       "phonetic": "ngau",
       "name": "ngau",
-      "script": "ஙௌ"
+      "script": "ஙௌ",
+      "iso15919": "ṅau",
+      "ipa": "ŋaʊ"
     }
   ],
   [
