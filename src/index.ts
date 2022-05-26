@@ -1,4 +1,4 @@
-import scriptData from './script.json';
+import data from './script.json';
 
 export type Script = {
   phonetic: string;
@@ -8,6 +8,6 @@ export type Script = {
   ipa: string;
 };
 
-const script: Script[][] = scriptData;
+export const script = data as Script[][];
 
-export { script as default };
+export default data as Script[][];
