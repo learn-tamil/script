@@ -29,4 +29,20 @@ export const getIso15919 = (phrase: string) => {
     .join(' ');
 };
 
+export const getIPA = (phrase: string) => {
+  const ipaMap = script
+    .flat()
+    .reduce((scripts, newScript) => ({ ...scripts, [newScript.script]: newScript.ipa }), {} as Record<string, string>);
+
+  return phrase
+    .split(' ')
+    .map((word) => {
+      return word
+        .match(/[\u0b80-\u0bff][\u0bbe-\u0bcd\u0bd7]?/gi)
+        .map((char) => ipaMap[char])
+        .join('');
+    })
+    .join(' ');
+};
+
 export default data as Script[][];
