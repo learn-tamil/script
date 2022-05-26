@@ -10,7 +10,7 @@ export type Script = {
 
 export const script = data as Script[][];
 
-export const getIso15919 = (word: string) => {
+export const getIso15919 = (phrase: string) => {
   const iso15919Map = script
     .flat()
     .reduce(
@@ -18,10 +18,15 @@ export const getIso15919 = (word: string) => {
       {} as Record<string, string>,
     );
 
-  return word
-    .match(/[\u0b80-\u0bff][\u0bbe-\u0bcd\u0bd7]?/gi)
-    .map((char) => iso15919Map[char])
-    .join('');
+  return phrase
+    .split(' ')
+    .map((word) => {
+      return word
+        .match(/[\u0b80-\u0bff][\u0bbe-\u0bcd\u0bd7]?/gi)
+        .map((char) => iso15919Map[char])
+        .join('');
+    })
+    .join(' ');
 };
 
 export default data as Script[][];
