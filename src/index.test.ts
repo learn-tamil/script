@@ -9,5 +9,6 @@ describe('script tests', () => {
 
   it('builds the iso 15919 for word', () => {
     expect(getIso15919('அம்மா')).toEqual('ammā');
+    expect(getIso15919('பாடசாலைக்கு சென்றேன்')).toEqual('pāṭacālaikku ceṉṟēṉ');
   });
 });
