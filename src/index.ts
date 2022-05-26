@@ -1,7 +1,7 @@
 import data from './script.json';
 
 export type Script = {
-  phonetic: string;
+  romanization: string;
   name: string;
   script: string;
   iso15919: string;

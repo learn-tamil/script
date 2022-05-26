@@ -1,91 +1,91 @@
 [
   [
     {
-      "phonetic": "q",
+      "romanization": "q",
       "name": "q",
       "script": "ஃ",
       "iso15919": "x",
       "ipa": "ḵ"
     },
     {
-      "phonetic": "a",
+      "romanization": "a",
       "name": "a",
       "script": "அ",
       "iso15919": "a",
       "ipa": "a"
     },
     {
-      "phonetic": "aa",
+      "romanization": "aa",
       "name": "aa",
       "script": "ஆ",
       "iso15919": "ā",
       "ipa": "aː"
     },
     {
-      "phonetic": "i",
+      "romanization": "i",
       "name": "i",
       "script": "இ",
       "iso15919": "i",
       "ipa": "i"
     },
     {
-      "phonetic": "ii",
+      "romanization": "ii",
       "name": "ii",
       "script": "ஈ",
       "iso15919": "ī",
       "ipa": "iː"
     },
     {
-      "phonetic": "u",
+      "romanization": "u",
       "name": "u",
       "script": "உ",
       "iso15919": "u",
       "ipa": "u"
     },
     {
-      "phonetic": "uu",
+      "romanization": "uu",
       "name": "uu",
       "script": "ஊ",
       "iso15919": "ū",
       "ipa": "uː"
     },
     {
-      "phonetic": "e",
+      "romanization": "e",
       "name": "e",
       "script": "எ",
       "iso15919": "e",
       "ipa": "e"
     },
     {
-      "phonetic": "ee",
+      "romanization": "ee",
       "name": "ee",
       "script": "ஏ",
       "iso15919": "ē",
       "ipa": "eː"
     },
     {
-      "phonetic": "ai",
+      "romanization": "ai",
       "name": "ai",
       "script": "ஐ",
       "iso15919": "ai",
       "ipa": "aɪ"
     },
     {
-      "phonetic": "o",
+      "romanization": "o",
       "name": "o",
       "script": "ஒ",
       "iso15919": "o",
       "ipa": "o"
     },
     {
-      "phonetic": "oo",
+      "romanization": "oo",
       "name": "oo",
       "script": "ஓ",
       "iso15919": "ō",
       "ipa": "oː"
     },
     {
-      "phonetic": "au",
+      "romanization": "au",
       "name": "au",
       "script": "ஔ",
       "iso15919": "au",
@@ -94,91 +94,91 @@
   ],
   [
     {
-      "phonetic": "k",
+      "romanization": "k",
       "name": "k",
       "script": "க்",
       "iso15919": "k",
       "ipa": "k"
     },
     {
-      "phonetic": "ka",
+      "romanization": "ka",
       "name": "ka",
       "script": "க",
       "iso15919": "ka",
       "ipa": "ka"
     },
     {
-      "phonetic": "kaa",
+      "romanization": "kaa",
       "name": "kaa",
       "script": "கா",
       "iso15919": "kā",
       "ipa": "kaː"
     },
     {
-      "phonetic": "ki",
+      "romanization": "ki",
       "name": "ki",
       "script": "கி",
       "iso15919": "ki",
       "ipa": "ki"
     },
     {
-      "phonetic": "kii",
+      "romanization": "kii",
       "name": "kii",
       "script": "கீ",
       "iso15919": "kī",
       "ipa": "kiː"
     },
     {
-      "phonetic": "ku",
+      "romanization": "ku",
       "name": "ku",
       "script": "கு",
       "iso15919": "ku",
       "ipa": "ku"
     },
     {
-      "phonetic": "kuu",
+      "romanization": "kuu",
       "name": "kuu",
       "script": "கூ",
       "iso15919": "kū",
       "ipa": "kuː"
     },
     {
-      "phonetic": "ke",
+      "romanization": "ke",
       "name": "ke",
       "script": "கெ",
       "iso15919": "ke",
       "ipa": "ke"
     },
     {
-      "phonetic": "kee",
+      "romanization": "kee",
       "name": "kee",
       "script": "கே",
       "iso15919": "kē",
       "ipa": "keː"
     },
     {
-      "phonetic": "kai",
+      "romanization": "kai",
       "name": "kai",
       "script": "கை",
       "iso15919": "kai",
       "ipa": "kaɪ"
     },
     {
-      "phonetic": "ko",
+      "romanization": "ko",
       "name": "ko",
       "script": "கொ",
       "iso15919": "ko",
       "ipa": "ko"
     },
     {
-      "phonetic": "koo",
+      "romanization": "koo",
       "name": "koo",
       "script": "கோ",
       "iso15919": "kō",
       "ipa": "koː"
     },
     {
-      "phonetic": "kau",
+      "romanization": "kau",
       "name": "kau",
       "script": "கௌ",
       "iso15919": "kau",
@@ -187,91 +187,91 @@
   ],
   [
     {
-      "phonetic": "ng",
+      "romanization": "ng",
       "name": "ng",
       "script": "ங்",
       "iso15919": "ṅ",
       "ipa": "ŋ"
     },
     {
-      "phonetic": "nga",
+      "romanization": "nga",
       "name": "nga",
       "script": "ங",
       "iso15919": "ṅa",
       "ipa": "ŋa"
     },
     {
-      "phonetic": "ngaa",
+      "romanization": "ngaa",
       "name": "ngaa",
       "script": "ஙா",
       "iso15919": "ṅā",
       "ipa": "ŋaː"
     },
     {
-      "phonetic": "ngi",
+      "romanization": "ngi",
       "name": "ngi",
       "script": "ஙி",
       "iso15919": "ṅi",
       "ipa": "ŋi"
     },
     {
-      "phonetic": "ngii",
+      "romanization": "ngii",
       "name": "ngii",
       "script": "ஙீ",
       "iso15919": "ṅī",
       "ipa": "ŋiː"
     },
     {
-      "phonetic": "ngu",
+      "romanization": "ngu",
       "name": "ngu",
       "script": "ஙு",
       "iso15919": "ṅu",
       "ipa": "ŋu"
     },
     {
-      "phonetic": "nguu",
+      "romanization": "nguu",
       "name": "nguu",
       "script": "ஙூ",
       "iso15919": "ṅū",
       "ipa": "ŋuː"
     },
     {
-      "phonetic": "nge",
+      "romanization": "nge",
       "name": "nge",
       "script": "ஙெ",
       "iso15919": "ṅe",
       "ipa": "ŋe"
     },
     {
-      "phonetic": "ngee",
+      "romanization": "ngee",
       "name": "ngee",
       "script": "ஙே",
       "iso15919": "ṅē",
       "ipa": "ŋeː"
     },
     {
-      "phonetic": "ngai",
+      "romanization": "ngai",
       "name": "ngai",
       "script": "ஙை",
       "iso15919": "ṅai",
       "ipa": "ŋaɪ"
     },
     {
-      "phonetic": "ngo",
+      "romanization": "ngo",
       "name": "ngo",
       "script": "ஙொ",
       "iso15919": "ṅo",
       "ipa": "ŋo"
     },
     {
-      "phonetic": "ngoo",
+      "romanization": "ngoo",
       "name": "ngoo",
       "script": "ஙோ",
       "iso15919": "ṅō",
       "ipa": "ŋoː"
     },
     {
-      "phonetic": "ngau",
+      "romanization": "ngau",
       "name": "ngau",
       "script": "ஙௌ",
       "iso15919": "ṅau",
@@ -280,91 +280,91 @@
   ],
   [
     {
-      "phonetic": "c",
+      "romanization": "c",
       "name": "c",
       "script": "ச்",
       "iso15919": "c",
       "ipa": "t͡ɕ"
     },
     {
-      "phonetic": "sa",
+      "romanization": "sa",
       "name": "sa",
       "script": "ச",
       "iso15919": "ca",
       "ipa": "t͡ɕa"
     },
     {
-      "phonetic": "saa",
+      "romanization": "saa",
       "name": "saa",
       "script": "சா",
       "iso15919": "cā",
       "ipa": "t͡ɕaː"
     },
     {
-      "phonetic": "si",
+      "romanization": "si",
       "name": "si",
       "script": "சி",
       "iso15919": "ci",
       "ipa": "t͡ɕi"
     },
     {
-      "phonetic": "sii",
+      "romanization": "sii",
       "name": "sii",
       "script": "சீ",
       "iso15919": "cī",
       "ipa": "t͡ɕiː"
     },
     {
-      "phonetic": "su",
+      "romanization": "su",
       "name": "su",
       "script": "சு",
       "iso15919": "cu",
       "ipa": "t͡ɕu"
     },
     {
-      "phonetic": "suu",
+      "romanization": "suu",
       "name": "suu",
       "script": "சூ",
       "iso15919": "cū",
       "ipa": "t͡ɕuː"
     },
     {
-      "phonetic": "se",
+      "romanization": "se",
       "name": "se",
       "script": "செ",
       "iso15919": "ce",
       "ipa": "t͡ɕe"
     },
     {
-      "phonetic": "see",
+      "romanization": "see",
       "name": "see",
       "script": "சே",
       "iso15919": "cē",
       "ipa": "t͡ɕeː"
     },
     {
-      "phonetic": "sai",
+      "romanization": "sai",
       "name": "sai",
       "script": "சை",
       "iso15919": "cai",
       "ipa": "t͡ɕaɪ"
     },
     {
-      "phonetic": "so",
+      "romanization": "so",
       "name": "so",
       "script": "சொ",
       "iso15919": "co",
       "ipa": "t͡ɕo"
     },
     {
-      "phonetic": "soo",
+      "romanization": "soo",
       "name": "soo",
       "script": "சோ",
       "iso15919": "cō",
       "ipa": "t͡ɕoː"
     },
     {
-      "phonetic": "sau",
+      "romanization": "sau",
       "name": "sau",
       "script": "சௌ",
       "iso15919": "cau",
@@ -373,91 +373,91 @@
   ],
   [
     {
-      "phonetic": "nj",
+      "romanization": "nj",
       "name": "nj",
       "script": "ஞ்",
       "iso15919": "ñ",
       "ipa": "ɲ"
     },
     {
-      "phonetic": "nja",
+      "romanization": "nja",
       "name": "nja",
       "script": "ஞ",
       "iso15919": "ña",
       "ipa": "ɲa"
     },
     {
-      "phonetic": "njaa",
+      "romanization": "njaa",
       "name": "njaa",
       "script": "ஞா",
       "iso15919": "ñā",
       "ipa": "ɲaː"
     },
     {
-      "phonetic": "nji",
+      "romanization": "nji",
       "name": "nji",
       "script": "ஞி",
       "iso15919": "ñi",
       "ipa": "ɲi"
     },
     {
-      "phonetic": "njii",
+      "romanization": "njii",
       "name": "njii",
       "script": "ஞீ",
       "iso15919": "ñī",
       "ipa": "ɲiː"
     },
     {
-      "phonetic": "nju",
+      "romanization": "nju",
       "name": "nju",
       "script": "ஞு",
       "iso15919": "ñu",
       "ipa": "ɲu"
     },
     {
-      "phonetic": "njuu",
+      "romanization": "njuu",
       "name": "njuu",
       "script": "ஞூ",
       "iso15919": "ñū",
       "ipa": "ɲuː"
     },
     {
-      "phonetic": "nje",
+      "romanization": "nje",
       "name": "nje",
       "script": "ஞெ",
       "iso15919": "ñe",
       "ipa": "ɲe"
     },
     {
-      "phonetic": "njee",
+      "romanization": "njee",
       "name": "njee",
       "script": "ஞே",
       "iso15919": "ñē",
       "ipa": "ɲeː"
     },
     {
-      "phonetic": "njai",
+      "romanization": "njai",
       "name": "njai",
       "script": "ஞை",
       "iso15919": "ñai",
       "ipa": "ɲaɪ"
     },
     {
-      "phonetic": "njo",
+      "romanization": "njo",
       "name": "njo",
       "script": "ஞொ",
       "iso15919": "ño",
       "ipa": "ɲo"
     },
     {
-      "phonetic": "njoo",
+      "romanization": "njoo",
       "name": "njoo",
       "script": "ஞோ",
       "iso15919": "ñō",
       "ipa": "ɲoː"
     },
     {
-      "phonetic": "njau",
+      "romanization": "njau",
       "name": "njau",
       "script": "ஞௌ",
       "iso15919": "ñau",
@@ -466,91 +466,91 @@
   ],
   [
     {
-      "phonetic": "d",
+      "romanization": "d",
       "name": "d",
       "script": "ட்",
       "iso15919": "ṭ",
       "ipa": "ɖ"
     },
     {
-      "phonetic": "da",
+      "romanization": "da",
       "name": "da",
       "script": "ட",
       "iso15919": "ṭa",
       "ipa": "ɖa"
     },
     {
-      "phonetic": "daa",
+      "romanization": "daa",
       "name": "daa",
       "script": "டா",
       "iso15919": "ṭā",
       "ipa": "ɖaː"
     },
     {
-      "phonetic": "di",
+      "romanization": "di",
       "name": "di",
       "script": "டி",
       "iso15919": "ṭi",
       "ipa": "ɖi"
     },
     {
-      "phonetic": "dii",
+      "romanization": "dii",
       "name": "dii",
       "script": "டீ",
       "iso15919": "ṭī",
       "ipa": "ɖiː"
     },
     {
-      "phonetic": "du",
+      "romanization": "du",
       "name": "du",
       "script": "டு",
       "iso15919": "ṭu",
       "ipa": "ɖu"
     },
     {
-      "phonetic": "duu",
+      "romanization": "duu",
       "name": "duu",
       "script": "டூ",
       "iso15919": "ṭū",
       "ipa": "ɖuː"
     },
     {
-      "phonetic": "de",
+      "romanization": "de",
       "name": "de",
       "script": "டெ",
       "iso15919": "ṭe",
       "ipa": "ɖe"
     },
     {
-      "phonetic": "dee",
+      "romanization": "dee",
       "name": "dee",
       "script": "டே",
       "iso15919": "ṭē",
       "ipa": "ɖeː"
     },
     {
-      "phonetic": "dai",
+      "romanization": "dai",
       "name": "dai",
       "script": "டை",
       "iso15919": "ṭai",
       "ipa": "ɖaɪ"
     },
     {
-      "phonetic": "do",
+      "romanization": "do",
       "name": "do",
       "script": "டொ",
       "iso15919": "ṭo",
       "ipa": "ɖo"
     },
     {
-      "phonetic": "doo",
+      "romanization": "doo",
       "name": "doo",
       "script": "டோ",
       "iso15919": "ṭō",
       "ipa": "ɖoː"
     },
     {
-      "phonetic": "dau",
+      "romanization": "dau",
       "name": "dau",
       "script": "டௌ",
       "iso15919": "ṭau",
@@ -559,91 +559,91 @@
   ],
   [
     {
-      "phonetic": "N",
+      "romanization": "N",
       "name": "nn",
       "script": "ண்",
       "iso15919": "ṇ",
       "ipa": "ɳ"
     },
     {
-      "phonetic": "Na",
+      "romanization": "Na",
       "name": "nna",
       "script": "ண",
       "iso15919": "ṇa",
       "ipa": "ɳa"
     },
     {
-      "phonetic": "Naa",
+      "romanization": "Naa",
       "name": "nnaa",
       "script": "ணா",
       "iso15919": "ṇā",
       "ipa": "ɳaː"
     },
     {
-      "phonetic": "Ni",
+      "romanization": "Ni",
       "name": "nni",
       "script": "ணி",
       "iso15919": "ṇi",
       "ipa": "ɳi"
     },
     {
-      "phonetic": "Nii",
+      "romanization": "Nii",
       "name": "nnii",
       "script": "ணீ",
       "iso15919": "ṇī",
       "ipa": "ɳiː"
     },
     {
-      "phonetic": "Nu",
+      "romanization": "Nu",
       "name": "nnu",
       "script": "ணு",
       "iso15919": "ṇu",
       "ipa": "ɳu"
     },
     {
-      "phonetic": "Nuu",
+      "romanization": "Nuu",
       "name": "nnuu",
       "script": "ணூ",
       "iso15919": "ṇū",
       "ipa": "ɳuː"
     },
     {
-      "phonetic": "Ne",
+      "romanization": "Ne",
       "name": "nne",
       "script": "ணெ",
       "iso15919": "ṇe",
       "ipa": "ɳe"
     },
     {
-      "phonetic": "Nee",
+      "romanization": "Nee",
       "name": "nnee",
       "script": "ணே",
       "iso15919": "ṇē",
       "ipa": "ɳeː"
     },
     {
-      "phonetic": "Nai",
+      "romanization": "Nai",
       "name": "nnai",
       "script": "ணை",
       "iso15919": "ṇai",
       "ipa": "ɳaɪ"
     },
     {
-      "phonetic": "No",
+      "romanization": "No",
       "name": "nno",
       "script": "ணொ",
       "iso15919": "ṇo",
       "ipa": "ɳo"
     },
     {
-      "phonetic": "Noo",
+      "romanization": "Noo",
       "name": "nnoo",
       "script": "ணோ",
       "iso15919": "ṇō",
       "ipa": "ɳoː"
     },
     {
-      "phonetic": "Nau",
+      "romanization": "Nau",
       "name": "nnau",
       "script": "ணௌ",
       "iso15919": "ṇau",
@@ -652,91 +652,91 @@
   ],
   [
     {
-      "phonetic": "th",
+      "romanization": "th",
       "name": "th",
       "script": "த்",
       "iso15919": "t",
       "ipa": "t"
     },
     {
-      "phonetic": "tha",
+      "romanization": "tha",
       "name": "tha",
       "script": "த",
       "iso15919": "ta",
       "ipa": "ta"
     },
     {
-      "phonetic": "thaa",
+      "romanization": "thaa",
       "name": "thaa",
       "script": "தா",
       "iso15919": "tā",
       "ipa": "taː"
     },
     {
-      "phonetic": "thi",
+      "romanization": "thi",
       "name": "thi",
       "script": "தி",
       "iso15919": "ti",
       "ipa": "ti"
     },
     {
-      "phonetic": "thii",
+      "romanization": "thii",
       "name": "thii",
       "script": "தீ",
       "iso15919": "tī",
       "ipa": "tiː"
     },
     {
-      "phonetic": "thu",
+      "romanization": "thu",
       "name": "thu",
       "script": "து",
       "iso15919": "tu",
       "ipa": "tu"
     },
     {
-      "phonetic": "thuu",
+      "romanization": "thuu",
       "name": "thuu",
       "script": "தூ",
       "iso15919": "tū",
       "ipa": "tuː"
     },
     {
-      "phonetic": "the",
+      "romanization": "the",
       "name": "the",
       "script": "தெ",
       "iso15919": "te",
       "ipa": "te"
     },
     {
-      "phonetic": "thee",
+      "romanization": "thee",
       "name": "thee",
       "script": "தே",
       "iso15919": "tē",
       "ipa": "teː"
     },
     {
-      "phonetic": "thai",
+      "romanization": "thai",
       "name": "thai",
       "script": "தை",
       "iso15919": "tai",
       "ipa": "taɪ"
     },
     {
-      "phonetic": "tho",
+      "romanization": "tho",
       "name": "tho",
       "script": "தொ",
       "iso15919": "to",
       "ipa": "to"
     },
     {
-      "phonetic": "thoo",
+      "romanization": "thoo",
       "name": "thoo",
       "script": "தோ",
       "iso15919": "tō",
       "ipa": "toː"
     },
     {
-      "phonetic": "thau",
+      "romanization": "thau",
       "name": "thau",
       "script": "தௌ",
       "iso15919": "tau",
@@ -745,91 +745,91 @@
   ],
   [
     {
-      "phonetic": "n",
+      "romanization": "n",
       "name": "nth",
       "script": "ந்",
       "iso15919": "n",
       "ipa": "n̪"
     },
     {
-      "phonetic": "na",
+      "romanization": "na",
       "name": "ntha",
       "script": "ந",
       "iso15919": "na",
       "ipa": "n̪a"
     },
     {
-      "phonetic": "naa",
+      "romanization": "naa",
       "name": "nthaa",
       "script": "நா",
       "iso15919": "nā",
       "ipa": "n̪aː"
     },
     {
-      "phonetic": "ni",
+      "romanization": "ni",
       "name": "nthi",
       "script": "நி",
       "iso15919": "ni",
       "ipa": "n̪i"
     },
     {
-      "phonetic": "nii",
+      "romanization": "nii",
       "name": "nthii",
       "script": "நீ",
       "iso15919": "nī",
       "ipa": "n̪iː"
     },
     {
-      "phonetic": "nu",
+      "romanization": "nu",
       "name": "nthu",
       "script": "நு",
       "iso15919": "nu",
       "ipa": "n̪u"
     },
     {
-      "phonetic": "nuu",
+      "romanization": "nuu",
       "name": "nthuu",
       "script": "நூ",
       "iso15919": "nū",
       "ipa": "n̪uː"
     },
     {
-      "phonetic": "ne",
+      "romanization": "ne",
       "name": "nthe",
       "script": "நெ",
       "iso15919": "ne",
       "ipa": "n̪e"
     },
     {
-      "phonetic": "nee",
+      "romanization": "nee",
       "name": "nthee",
       "script": "நே",
       "iso15919": "nē",
       "ipa": "n̪eː"
     },
     {
-      "phonetic": "nai",
+      "romanization": "nai",
       "name": "nthai",
       "script": "நை",
       "iso15919": "nai",
       "ipa": "n̪aɪ"
     },
     {
-      "phonetic": "no",
+      "romanization": "no",
       "name": "ntho",
       "script": "நொ",
       "iso15919": "no",
       "ipa": "n̪o"
     },
     {
-      "phonetic": "noo",
+      "romanization": "noo",
       "name": "nthoo",
       "script": "நோ",
       "iso15919": "nō",
       "ipa": "n̪oː"
     },
     {
-      "phonetic": "nau",
+      "romanization": "nau",
       "name": "nthau",
       "script": "நௌ",
       "iso15919": "nau",
@@ -838,91 +838,91 @@
   ],
   [
     {
-      "phonetic": "p",
+      "romanization": "p",
       "name": "p",
       "script": "ப்",
       "iso15919": "p",
       "ipa": "p"
     },
     {
-      "phonetic": "pa",
+      "romanization": "pa",
       "name": "pa",
       "script": "ப",
       "iso15919": "pa",
       "ipa": "pa"
     },
     {
-      "phonetic": "paa",
+      "romanization": "paa",
       "name": "paa",
       "script": "பா",
       "iso15919": "pā",
       "ipa": "paː"
     },
     {
-      "phonetic": "pi",
+      "romanization": "pi",
       "name": "pi",
       "script": "பி",
       "iso15919": "pi",
       "ipa": "pi"
     },
     {
-      "phonetic": "pii",
+      "romanization": "pii",
       "name": "pii",
       "script": "பீ",
       "iso15919": "pī",
       "ipa": "piː"
     },
     {
-      "phonetic": "pu",
+      "romanization": "pu",
       "name": "pu",
       "script": "பு",
       "iso15919": "pu",
       "ipa": "pu"
     },
     {
-      "phonetic": "puu",
+      "romanization": "puu",
       "name": "puu",
       "script": "பூ",
       "iso15919": "pū",
       "ipa": "puː"
     },
     {
-      "phonetic": "pe",
+      "romanization": "pe",
       "name": "pe",
       "script": "பெ",
       "iso15919": "pe",
       "ipa": "pe"
     },
     {
-      "phonetic": "pee",
+      "romanization": "pee",
       "name": "pee",
       "script": "பே",
       "iso15919": "pē",
       "ipa": "peː"
     },
     {
-      "phonetic": "pai",
+      "romanization": "pai",
       "name": "pai",
       "script": "பை",
       "iso15919": "pai",
       "ipa": "paɪ"
     },
     {
-      "phonetic": "po",
+      "romanization": "po",
       "name": "po",
       "script": "பொ",
       "iso15919": "po",
       "ipa": "po"
     },
     {
-      "phonetic": "poo",
+      "romanization": "poo",
       "name": "poo",
       "script": "போ",
       "iso15919": "pō",
       "ipa": "poː"
     },
     {
-      "phonetic": "pau",
+      "romanization": "pau",
       "name": "pau",
       "script": "பௌ",
       "iso15919": "pau",
@@ -931,91 +931,91 @@
   ],
   [
     {
-      "phonetic": "m",
+      "romanization": "m",
       "name": "m",
       "script": "ம்",
       "iso15919": "m",
       "ipa": "m"
     },
     {
-      "phonetic": "ma",
+      "romanization": "ma",
       "name": "ma",
       "script": "ம",
       "iso15919": "ma",
       "ipa": "ma"
     },
     {
-      "phonetic": "maa",
+      "romanization": "maa",
       "name": "maa",
       "script": "மா",
       "iso15919": "mā",
       "ipa": "maː"
     },
     {
-      "phonetic": "mi",
+      "romanization": "mi",
       "name": "mi",
       "script": "மி",
       "iso15919": "mi",
       "ipa": "mi"
     },
     {
-      "phonetic": "mii",
+      "romanization": "mii",
       "name": "mii",
       "script": "மீ",
       "iso15919": "mī",
       "ipa": "miː"
     },
     {
-      "phonetic": "mu",
+      "romanization": "mu",
       "name": "mu",
       "script": "மு",
       "iso15919": "mu",
       "ipa": "mu"
     },
     {
-      "phonetic": "muu",
+      "romanization": "muu",
       "name": "muu",
       "script": "மூ",
       "iso15919": "mū",
       "ipa": "muː"
     },
     {
-      "phonetic": "me",
+      "romanization": "me",
       "name": "me",
       "script": "மெ",
       "iso15919": "me",
       "ipa": "me"
     },
     {
-      "phonetic": "mee",
+      "romanization": "mee",
       "name": "mee",
       "script": "மே",
       "iso15919": "mē",
       "ipa": "meː"
     },
     {
-      "phonetic": "mai",
+      "romanization": "mai",
       "name": "mai",
       "script": "மை",
       "iso15919": "mai",
       "ipa": "maɪ"
     },
     {
-      "phonetic": "mo",
+      "romanization": "mo",
       "name": "mo",
       "script": "மொ",
       "iso15919": "mo",
       "ipa": "mo"
     },
     {
-      "phonetic": "moo",
+      "romanization": "moo",
       "name": "moo",
       "script": "மோ",
       "iso15919": "mō",
       "ipa": "moː"
     },
     {
-      "phonetic": "mau",
+      "romanization": "mau",
       "name": "mau",
       "script": "மௌ",
       "iso15919": "mau",
@@ -1024,91 +1024,91 @@
   ],
   [
     {
-      "phonetic": "y",
+      "romanization": "y",
       "name": "y",
       "script": "ய்",
       "iso15919": "y",
       "ipa": "j"
     },
     {
-      "phonetic": "ya",
+      "romanization": "ya",
       "name": "ya",
       "script": "ய",
       "iso15919": "ya",
       "ipa": "ja"
     },
     {
-      "phonetic": "yaa",
+      "romanization": "yaa",
       "name": "yaa",
       "script": "யா",
       "iso15919": "yā",
       "ipa": "jaː"
     },
     {
-      "phonetic": "yi",
+      "romanization": "yi",
       "name": "yi",
       "script": "யி",
       "iso15919": "yi",
       "ipa": "ji"
     },
     {
-      "phonetic": "yii",
+      "romanization": "yii",
       "name": "yii",
       "script": "யீ",
       "iso15919": "yī",
       "ipa": "jiː"
     },
     {
-      "phonetic": "yu",
+      "romanization": "yu",
       "name": "yu",
       "script": "யு",
       "iso15919": "yu",
       "ipa": "ju"
     },
     {
-      "phonetic": "yuu",
+      "romanization": "yuu",
       "name": "yuu",
       "script": "யூ",
       "iso15919": "yū",
       "ipa": "juː"
     },
     {
-      "phonetic": "ye",
+      "romanization": "ye",
       "name": "ye",
       "script": "யெ",
       "iso15919": "ye",
       "ipa": "je"
     },
     {
-      "phonetic": "yee",
+      "romanization": "yee",
       "name": "yee",
       "script": "யே",
       "iso15919": "yē",
       "ipa": "jeː"
     },
     {
-      "phonetic": "yai",
+      "romanization": "yai",
       "name": "yai",
       "script": "யை",
       "iso15919": "yai",
       "ipa": "jaɪ"
     },
     {
-      "phonetic": "yo",
+      "romanization": "yo",
       "name": "yo",
       "script": "யொ",
       "iso15919": "yo",
       "ipa": "jo"
     },
     {
-      "phonetic": "yoo",
+      "romanization": "yoo",
       "name": "yoo",
       "script": "யோ",
       "iso15919": "yō",
       "ipa": "joː"
     },
     {
-      "phonetic": "yau",
+      "romanization": "yau",
       "name": "yau",
       "script": "யௌ",
       "iso15919": "yau",
@@ -1117,91 +1117,91 @@
   ],
   [
     {
-      "phonetic": "r",
+      "romanization": "r",
       "name": "r",
       "script": "ர்",
       "iso15919": "r",
       "ipa": "ɾ"
     },
     {
-      "phonetic": "ra",
+      "romanization": "ra",
       "name": "ta",
       "script": "ர",
       "iso15919": "ra",
       "ipa": "ɾa"
     },
     {
-      "phonetic": "raa",
+      "romanization": "raa",
       "name": "taa",
       "script": "ரா",
       "iso15919": "rā",
       "ipa": "ɾaː"
     },
     {
-      "phonetic": "ri",
+      "romanization": "ri",
       "name": "ti",
       "script": "ரி",
       "iso15919": "ri",
       "ipa": "ɾi"
     },
     {
-      "phonetic": "rii",
+      "romanization": "rii",
       "name": "tii",
       "script": "ரீ",
       "iso15919": "rī",
       "ipa": "ɾiː"
     },
     {
-      "phonetic": "ru",
+      "romanization": "ru",
       "name": "tu",
       "script": "ரு",
       "iso15919": "ru",
       "ipa": "ɾu"
     },
     {
-      "phonetic": "ruu",
+      "romanization": "ruu",
       "name": "tuu",
       "script": "ரூ",
       "iso15919": "rū",
       "ipa": "ɾuː"
     },
     {
-      "phonetic": "re",
+      "romanization": "re",
       "name": "te",
       "script": "ரெ",
       "iso15919": "re",
       "ipa": "ɾe"
     },
     {
-      "phonetic": "ree",
+      "romanization": "ree",
       "name": "tee",
       "script": "ரே",
       "iso15919": "rē",
       "ipa": "ɾeː"
     },
     {
-      "phonetic": "rai",
+      "romanization": "rai",
       "name": "tai",
       "script": "ரை",
       "iso15919": "rai",
       "ipa": "ɾaɪ"
     },
     {
-      "phonetic": "ro",
+      "romanization": "ro",
       "name": "to",
       "script": "ரொ",
       "iso15919": "ro",
       "ipa": "ɾo"
     },
     {
-      "phonetic": "roo",
+      "romanization": "roo",
       "name": "too",
       "script": "ரோ",
       "iso15919": "rō",
       "ipa": "ɾoː"
     },
     {
-      "phonetic": "rau",
+      "romanization": "rau",
       "name": "tau",
       "script": "ரௌ",
       "iso15919": "rau",
@@ -1210,91 +1210,91 @@
   ],
   [
     {
-      "phonetic": "l",
+      "romanization": "l",
       "name": "l",
       "script": "ல்",
       "iso15919": "l",
       "ipa": "l"
     },
     {
-      "phonetic": "la",
+      "romanization": "la",
       "name": "la",
       "script": "ல",
       "iso15919": "la",
       "ipa": "la"
     },
     {
-      "phonetic": "laa",
+      "romanization": "laa",
       "name": "laa",
       "script": "லா",
       "iso15919": "lā",
       "ipa": "laː"
     },
     {
-      "phonetic": "li",
+      "romanization": "li",
       "name": "li",
       "script": "லி",
       "iso15919": "li",
       "ipa": "li"
     },
     {
-      "phonetic": "lii",
+      "romanization": "lii",
       "name": "lii",
       "script": "லீ",
       "iso15919": "lī",
       "ipa": "liː"
     },
     {
-      "phonetic": "lu",
+      "romanization": "lu",
       "name": "lu",
       "script": "லு",
       "iso15919": "lu",
       "ipa": "lu"
     },
     {
-      "phonetic": "luu",
+      "romanization": "luu",
       "name": "luu",
       "script": "லூ",
       "iso15919": "lū",
       "ipa": "luː"
     },
     {
-      "phonetic": "le",
+      "romanization": "le",
       "name": "le",
       "script": "லெ",
       "iso15919": "le",
       "ipa": "le"
     },
     {
-      "phonetic": "lee",
+      "romanization": "lee",
       "name": "lee",
       "script": "லே",
       "iso15919": "lē",
       "ipa": "leː"
     },
     {
-      "phonetic": "lai",
+      "romanization": "lai",
       "name": "lai",
       "script": "லை",
       "iso15919": "lai",
       "ipa": "laɪ"
     },
     {
-      "phonetic": "lo",
+      "romanization": "lo",
       "name": "lo",
       "script": "லொ",
       "iso15919": "lo",
       "ipa": "lo"
     },
     {
-      "phonetic": "loo",
+      "romanization": "loo",
       "name": "loo",
       "script": "லோ",
       "iso15919": "lō",
       "ipa": "loː"
     },
     {
-      "phonetic": "lau",
+      "romanization": "lau",
       "name": "lau",
       "script": "லௌ",
       "iso15919": "lau",
@@ -1303,91 +1303,91 @@
   ],
   [
     {
-      "phonetic": "v",
+      "romanization": "v",
       "name": "v",
       "script": "வ்",
       "iso15919": "v",
       "ipa": "ʋ"
     },
     {
-      "phonetic": "va",
+      "romanization": "va",
       "name": "va",
       "script": "வ",
       "iso15919": "va",
       "ipa": "ʋa"
     },
     {
-      "phonetic": "vaa",
+      "romanization": "vaa",
       "name": "vaa",
       "script": "வா",
       "iso15919": "vā",
       "ipa": "ʋaː"
     },
     {
-      "phonetic": "vi",
+      "romanization": "vi",
       "name": "vi",
       "script": "வி",
       "iso15919": "vi",
       "ipa": "ʋi"
     },
     {
-      "phonetic": "vii",
+      "romanization": "vii",
       "name": "vii",
       "script": "வீ",
       "iso15919": "vī",
       "ipa": "ʋiː"
     },
     {
-      "phonetic": "vu",
+      "romanization": "vu",
       "name": "vu",
       "script": "வு",
       "iso15919": "vu",
       "ipa": "ʋu"
     },
     {
-      "phonetic": "vuu",
+      "romanization": "vuu",
       "name": "vuu",
       "script": "வூ",
       "iso15919": "vū",
       "ipa": "ʋuː"
     },
     {
-      "phonetic": "ve",
+      "romanization": "ve",
       "name": "ve",
       "script": "வெ",
       "iso15919": "ve",
       "ipa": "ʋe"
     },
     {
-      "phonetic": "vee",
+      "romanization": "vee",
       "name": "vee",
       "script": "வே",
       "iso15919": "vē",
       "ipa": "ʋeː"
     },
     {
-      "phonetic": "vai",
+      "romanization": "vai",
       "name": "vai",
       "script": "வை",
       "iso15919": "vai",
       "ipa": "ʋaɪ"
     },
     {
-      "phonetic": "vo",
+      "romanization": "vo",
       "name": "vo",
       "script": "வொ",
       "iso15919": "vo",
       "ipa": "ʋo"
     },
     {
-      "phonetic": "voo",
+      "romanization": "voo",
       "name": "voo",
       "script": "வோ",
       "iso15919": "vō",
       "ipa": "ʋoː"
     },
     {
-      "phonetic": "vau",
+      "romanization": "vau",
       "name": "vau",
       "script": "வௌ",
       "iso15919": "vau",
@@ -1396,91 +1396,91 @@
   ],
   [
     {
-      "phonetic": "z",
+      "romanization": "z",
       "name": "zh",
       "script": "ழ்",
       "iso15919": "ḻ",
       "ipa": "ɻ"
     },
     {
-      "phonetic": "za",
+      "romanization": "za",
       "name": "zha",
       "script": "ழ",
       "iso15919": "ḻa",
       "ipa": "ɻa"
     },
     {
-      "phonetic": "zaa",
+      "romanization": "zaa",
       "name": "zhaa",
       "script": "ழா",
       "iso15919": "ḻā",
       "ipa": "ɻaː"
     },
     {
-      "phonetic": "zi",
+      "romanization": "zi",
       "name": "zhi",
       "script": "ழி",
       "iso15919": "ḻi",
       "ipa": "ɻi"
     },
     {
-      "phonetic": "zii",
+      "romanization": "zii",
       "name": "zhii",
       "script": "ழீ",
       "iso15919": "ḻī",
       "ipa": "ɻiː"
     },
     {
-      "phonetic": "zu",
+      "romanization": "zu",
       "name": "zhu",
       "script": "ழு",
       "iso15919": "ḻu",
       "ipa": "ɻu"
     },
     {
-      "phonetic": "zuu",
+      "romanization": "zuu",
       "name": "zhuu",
       "script": "ழூ",
       "iso15919": "ḻū",
       "ipa": "ɻuː"
     },
     {
-      "phonetic": "ze",
+      "romanization": "ze",
       "name": "zhe",
       "script": "ழெ",
       "iso15919": "ḻe",
       "ipa": "ɻe"
     },
     {
-      "phonetic": "zee",
+      "romanization": "zee",
       "name": "zhee",
       "script": "ழே",
       "iso15919": "ḻē",
       "ipa": "ɻeː"
     },
     {
-      "phonetic": "zai",
+      "romanization": "zai",
       "name": "zhai",
       "script": "ழை",
       "iso15919": "ḻai",
       "ipa": "ɻaɪ"
     },
     {
-      "phonetic": "zo",
+      "romanization": "zo",
       "name": "zho",
       "script": "ழொ",
       "iso15919": "ḻo",
       "ipa": "ɻo"
     },
     {
-      "phonetic": "zoo",
+      "romanization": "zoo",
       "name": "zhoo",
       "script": "ழோ",
       "iso15919": "ḻō",
       "ipa": "ɻoː"
     },
     {
-      "phonetic": "zau",
+      "romanization": "zau",
       "name": "zhau",
       "script": "ழௌ",
       "iso15919": "ḻau",
@@ -1489,91 +1489,91 @@
   ],
   [
     {
-      "phonetic": "L",
+      "romanization": "L",
       "name": "ll",
       "script": "ள்",
       "iso15919": "ḷ",
       "ipa": "ɭ"
     },
     {
-      "phonetic": "La",
+      "romanization": "La",
       "name": "lla",
       "script": "ள",
       "iso15919": "ḷa",
       "ipa": "ɭa"
     },
     {
-      "phonetic": "Laa",
+      "romanization": "Laa",
       "name": "llaa",
       "script": "ளா",
       "iso15919": "ḷā",
       "ipa": "ɭaː"
     },
     {
-      "phonetic": "Li",
+      "romanization": "Li",
       "name": "lli",
       "script": "ளி",
       "iso15919": "ḷi",
       "ipa": "ɭi"
     },
     {
-      "phonetic": "Lii",
+      "romanization": "Lii",
       "name": "llii",
       "script": "ளீ",
       "iso15919": "ḷī",
       "ipa": "ɭiː"
     },
     {
-      "phonetic": "Lu",
+      "romanization": "Lu",
       "name": "llu",
       "script": "ளு",
       "iso15919": "ḷu",
       "ipa": "ɭu"
     },
     {
-      "phonetic": "Luu",
+      "romanization": "Luu",
       "name": "lluu",
       "script": "ளூ",
       "iso15919": "ḷū",
       "ipa": "ɭuː"
     },
     {
-      "phonetic": "Le",
+      "romanization": "Le",
       "name": "lle",
       "script": "ளெ",
       "iso15919": "ḷe",
       "ipa": "ɭe"
     },
     {
-      "phonetic": "Lee",
+      "romanization": "Lee",
       "name": "llee",
       "script": "ளே",
       "iso15919": "ḷē",
       "ipa": "ɭeː"
     },
     {
-      "phonetic": "Lai",
+      "romanization": "Lai",
       "name": "llai",
       "script": "ளை",
       "iso15919": "ḷai",
       "ipa": "ɭaɪ"
     },
     {
-      "phonetic": "Lo",
+      "romanization": "Lo",
       "name": "llo",
       "script": "ளொ",
       "iso15919": "ḷo",
       "ipa": "ɭo"
     },
     {
-      "phonetic": "Loo",
+      "romanization": "Loo",
       "name": "lloo",
       "script": "ளோ",
       "iso15919": "ḷō",
       "ipa": "ɭoː"
     },
     {
-      "phonetic": "Lau",
+      "romanization": "Lau",
       "name": "llau",
       "script": "ளௌ",
       "iso15919": "ḷau",
@@ -1582,91 +1582,91 @@
   ],
   [
     {
-      "phonetic": "R",
+      "romanization": "R",
       "name": "t",
       "script": "ற்",
       "iso15919": "ṟ",
       "ipa": "r"
     },
     {
-      "phonetic": "Ra",
+      "romanization": "Ra",
       "name": "ra",
       "script": "ற",
       "iso15919": "ṟa",
       "ipa": "ra"
     },
     {
-      "phonetic": "Raa",
+      "romanization": "Raa",
       "name": "raa",
       "script": "றா",
       "iso15919": "ṟā",
       "ipa": "raː"
     },
     {
-      "phonetic": "Ri",
+      "romanization": "Ri",
       "name": "ri",
       "script": "றி",
       "iso15919": "ṟi",
       "ipa": "ri"
     },
     {
-      "phonetic": "Rii",
+      "romanization": "Rii",
       "name": "rii",
       "script": "றீ",
       "iso15919": "ṟī",
       "ipa": "riː"
     },
     {
-      "phonetic": "Ru",
+      "romanization": "Ru",
       "name": "ru",
       "script": "று",
       "iso15919": "ṟu",
       "ipa": "ru"
     },
     {
-      "phonetic": "Ruu",
+      "romanization": "Ruu",
       "name": "ruu",
       "script": "றூ",
       "iso15919": "ṟū",
       "ipa": "ruː"
     },
     {
-      "phonetic": "Re",
+      "romanization": "Re",
       "name": "re",
       "script": "றெ",
       "iso15919": "ṟe",
       "ipa": "re"
     },
     {
-      "phonetic": "Ree",
+      "romanization": "Ree",
       "name": "ree",
       "script": "றே",
       "iso15919": "ṟē",
       "ipa": "reː"
     },
     {
-      "phonetic": "Rai",
+      "romanization": "Rai",
       "name": "rai",
       "script": "றை",
       "iso15919": "ṟai",
       "ipa": "raɪ"
     },
     {
-      "phonetic": "Ro",
+      "romanization": "Ro",
       "name": "ro",
       "script": "றொ",
       "iso15919": "ṟo",
       "ipa": "ro"
     },
     {
-      "phonetic": "Roo",
+      "romanization": "Roo",
       "name": "roo",
       "script": "றோ",
       "iso15919": "ṟō",
       "ipa": "roː"
     },
     {
-      "phonetic": "Rau",
+      "romanization": "Rau",
       "name": "rau",
       "script": "றௌ",
       "iso15919": "ṟau",
@@ -1675,91 +1675,91 @@
   ],
   [
     {
-      "phonetic": "n",
+      "romanization": "n",
       "name": "n",
       "script": "ன்",
       "iso15919": "ṉ",
       "ipa": "n"
     },
     {
-      "phonetic": "na",
+      "romanization": "na",
       "name": "na",
       "script": "ன",
       "iso15919": "ṉa",
       "ipa": "na"
     },
     {
-      "phonetic": "naa",
+      "romanization": "naa",
       "name": "naa",
       "script": "னா",
       "iso15919": "ṉā",
       "ipa": "naː"
     },
     {
-      "phonetic": "ni",
+      "romanization": "ni",
       "name": "ni",
       "script": "னி",
       "iso15919": "ṉi",
       "ipa": "ni"
     },
     {
-      "phonetic": "nii",
+      "romanization": "nii",
       "name": "nii",
       "script": "னீ",
       "iso15919": "ṉī",
       "ipa": "niː"
     },
     {
-      "phonetic": "nu",
+      "romanization": "nu",
       "name": "nu",
       "script": "னு",
       "iso15919": "ṉu",
       "ipa": "nu"
     },
     {
-      "phonetic": "nuu",
+      "romanization": "nuu",
       "name": "nuu",
       "script": "னூ",
       "iso15919": "ṉū",
       "ipa": "nuː"
     },
     {
-      "phonetic": "ne",
+      "romanization": "ne",
       "name": "ne",
       "script": "னெ",
       "iso15919": "ṉe",
       "ipa": "ne"
     },
     {
-      "phonetic": "nee",
+      "romanization": "nee",
       "name": "nee",
       "script": "னே",
       "iso15919": "ṉē",
       "ipa": "neː"
     },
     {
-      "phonetic": "nai",
+      "romanization": "nai",
       "name": "nai",
       "script": "னை",
       "iso15919": "ṉai",
       "ipa": "naɪ"
     },
     {
-      "phonetic": "no",
+      "romanization": "no",
       "name": "no",
       "script": "னொ",
       "iso15919": "ṉo",
       "ipa": "no"
     },
     {
-      "phonetic": "noo",
+      "romanization": "noo",
       "name": "noo",
       "script": "னோ",
       "iso15919": "ṉō",
       "ipa": "noː"
     },
     {
-      "phonetic": "nau",
+      "romanization": "nau",
       "name": "nau",
       "script": "னௌ",
       "iso15919": "ṉau",
