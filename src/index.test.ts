@@ -1,9 +1,19 @@
-import script from './index';
+import script, { getIso15919, getIPA } from './index';
 
 describe('script tests', () => {
   it('exports scripts from json', () => {
     expect(script).toMatchSnapshot();
     expect(Array.isArray(script)).toBeTruthy();
     expect(script.length).toBe(19);
+  });
+
+  it('builds the iso 15919 for word', () => {
+    expect(getIso15919('அம்மா')).toEqual('ammā');
+    expect(getIso15919('பாடசாலைக்கு சென்றேன்')).toEqual('pāṭacālaikku ceṉṟēṉ');
+  });
+
+  it('builds the ipa for word', () => {
+    expect(getIPA('அம்மா')).toEqual('ammaː');
+    expect(getIPA('பாடசாலைக்கு சென்றேன்')).toEqual('paːɖat͡ɕaːlaɪkku t͡ɕenreːn');
   });
 });
