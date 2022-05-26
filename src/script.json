@@ -745,7 +745,7 @@
   ],
   [
     {
-      "phonetic": "nth",
+      "phonetic": "n",
       "name": "nth",
       "script": "ந்",
       "iso15919": "n",
@@ -1124,84 +1124,84 @@
       "ipa": "ɾ"
     },
     {
-      "phonetic": "ta",
+      "phonetic": "ra",
       "name": "ta",
       "script": "ர",
       "iso15919": "ra",
       "ipa": "ɾa"
     },
     {
-      "phonetic": "taa",
+      "phonetic": "raa",
       "name": "taa",
       "script": "ரா",
       "iso15919": "rā",
       "ipa": "ɾaː"
     },
     {
-      "phonetic": "ti",
+      "phonetic": "ri",
       "name": "ti",
       "script": "ரி",
       "iso15919": "ri",
       "ipa": "ɾi"
     },
     {
-      "phonetic": "tii",
+      "phonetic": "rii",
       "name": "tii",
       "script": "ரீ",
       "iso15919": "rī",
       "ipa": "ɾiː"
     },
     {
-      "phonetic": "tu",
+      "phonetic": "ru",
       "name": "tu",
       "script": "ரு",
       "iso15919": "ru",
       "ipa": "ɾu"
     },
     {
-      "phonetic": "tuu",
+      "phonetic": "ruu",
       "name": "tuu",
       "script": "ரூ",
       "iso15919": "rū",
       "ipa": "ɾuː"
     },
     {
-      "phonetic": "te",
+      "phonetic": "re",
       "name": "te",
       "script": "ரெ",
       "iso15919": "re",
       "ipa": "ɾe"
     },
     {
-      "phonetic": "tee",
+      "phonetic": "ree",
       "name": "tee",
       "script": "ரே",
       "iso15919": "rē",
       "ipa": "ɾeː"
     },
     {
-      "phonetic": "tai",
+      "phonetic": "rai",
       "name": "tai",
       "script": "ரை",
       "iso15919": "rai",
       "ipa": "ɾaɪ"
     },
     {
-      "phonetic": "to",
+      "phonetic": "ro",
       "name": "to",
       "script": "ரொ",
       "iso15919": "ro",
       "ipa": "ɾo"
     },
     {
-      "phonetic": "too",
+      "phonetic": "roo",
       "name": "too",
       "script": "ரோ",
       "iso15919": "rō",
       "ipa": "ɾoː"
     },
     {
-      "phonetic": "tau",
+      "phonetic": "rau",
       "name": "tau",
       "script": "ரௌ",
       "iso15919": "rau",
@@ -1396,91 +1396,91 @@
   ],
   [
     {
-      "phonetic": "zh",
+      "phonetic": "z",
       "name": "zh",
       "script": "ழ்",
       "iso15919": "ḻ",
       "ipa": "ɻ"
     },
     {
-      "phonetic": "zha",
+      "phonetic": "za",
       "name": "zha",
       "script": "ழ",
       "iso15919": "ḻa",
       "ipa": "ɻa"
     },
     {
-      "phonetic": "zhaa",
+      "phonetic": "zaa",
       "name": "zhaa",
       "script": "ழா",
       "iso15919": "ḻā",
       "ipa": "ɻaː"
     },
     {
-      "phonetic": "zhi",
+      "phonetic": "zi",
       "name": "zhi",
       "script": "ழி",
       "iso15919": "ḻi",
       "ipa": "ɻi"
     },
     {
-      "phonetic": "zhii",
+      "phonetic": "zii",
       "name": "zhii",
       "script": "ழீ",
       "iso15919": "ḻī",
       "ipa": "ɻiː"
     },
     {
-      "phonetic": "zhu",
+      "phonetic": "zu",
       "name": "zhu",
       "script": "ழு",
       "iso15919": "ḻu",
       "ipa": "ɻu"
     },
     {
-      "phonetic": "zhuu",
+      "phonetic": "zuu",
       "name": "zhuu",
       "script": "ழூ",
       "iso15919": "ḻū",
       "ipa": "ɻuː"
     },
     {
-      "phonetic": "zhe",
+      "phonetic": "ze",
       "name": "zhe",
       "script": "ழெ",
       "iso15919": "ḻe",
       "ipa": "ɻe"
     },
     {
-      "phonetic": "zhee",
+      "phonetic": "zee",
       "name": "zhee",
       "script": "ழே",
       "iso15919": "ḻē",
       "ipa": "ɻeː"
     },
     {
-      "phonetic": "zhai",
+      "phonetic": "zai",
       "name": "zhai",
       "script": "ழை",
       "iso15919": "ḻai",
       "ipa": "ɻaɪ"
     },
     {
-      "phonetic": "zho",
+      "phonetic": "zo",
       "name": "zho",
       "script": "ழொ",
       "iso15919": "ḻo",
       "ipa": "ɻo"
     },
     {
-      "phonetic": "zhoo",
+      "phonetic": "zoo",
       "name": "zhoo",
       "script": "ழோ",
       "iso15919": "ḻō",
       "ipa": "ɻoː"
     },
     {
-      "phonetic": "zhau",
+      "phonetic": "zau",
       "name": "zhau",
       "script": "ழௌ",
       "iso15919": "ḻau",
@@ -1582,91 +1582,91 @@
   ],
   [
     {
-      "phonetic": "t",
+      "phonetic": "R",
       "name": "t",
       "script": "ற்",
       "iso15919": "ṟ",
       "ipa": "r"
     },
     {
-      "phonetic": "ra",
+      "phonetic": "Ra",
       "name": "ra",
       "script": "ற",
       "iso15919": "ṟa",
       "ipa": "ra"
     },
     {
-      "phonetic": "raa",
+      "phonetic": "Raa",
       "name": "raa",
       "script": "றா",
       "iso15919": "ṟā",
       "ipa": "raː"
     },
     {
-      "phonetic": "ri",
+      "phonetic": "Ri",
       "name": "ri",
       "script": "றி",
       "iso15919": "ṟi",
       "ipa": "ri"
     },
     {
-      "phonetic": "rii",
+      "phonetic": "Rii",
       "name": "rii",
       "script": "றீ",
       "iso15919": "ṟī",
       "ipa": "riː"
     },
     {
-      "phonetic": "ru",
+      "phonetic": "Ru",
       "name": "ru",
       "script": "று",
       "iso15919": "ṟu",
       "ipa": "ru"
     },
     {
-      "phonetic": "ruu",
+      "phonetic": "Ruu",
       "name": "ruu",
       "script": "றூ",
       "iso15919": "ṟū",
       "ipa": "ruː"
     },
     {
-      "phonetic": "re",
+      "phonetic": "Re",
       "name": "re",
       "script": "றெ",
       "iso15919": "ṟe",
       "ipa": "re"
     },
     {
-      "phonetic": "ree",
+      "phonetic": "Ree",
       "name": "ree",
       "script": "றே",
       "iso15919": "ṟē",
       "ipa": "reː"
     },
     {
-      "phonetic": "rai",
+      "phonetic": "Rai",
       "name": "rai",
       "script": "றை",
       "iso15919": "ṟai",
       "ipa": "raɪ"
     },
     {
-      "phonetic": "ro",
+      "phonetic": "Ro",
       "name": "ro",
       "script": "றொ",
       "iso15919": "ṟo",
       "ipa": "ro"
     },
     {
-      "phonetic": "roo",
+      "phonetic": "Roo",
       "name": "roo",
       "script": "றோ",
       "iso15919": "ṟō",
       "ipa": "roː"
     },
     {
-      "phonetic": "rau",
+      "phonetic": "Rau",
       "name": "rau",
       "script": "றௌ",
       "iso15919": "ṟau",
