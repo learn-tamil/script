@@ -1,6 +1,7 @@
 import data from './script.json';
 
 export type Script = {
+  index: number;
   romanization: string;
   name: string;
   script: string;
