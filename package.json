@@ -30,7 +30,7 @@
     "typescript": "^4.7.2"
   },
   "scripts": {
-    "build": "rm -rf ./lib && esbuild ./src/index.ts --bundle --outfile=./lib/index.js",
+    "build": "rm -rf ./lib && esbuild ./src/index.ts --bundle --outfile=./lib/index.js --format=esm",
     "format": "prettier --write './src/**/*.{js,json,md,css}'",
     "lint": "tsc --noEmit && eslint '*/**/*.{js,ts,tsx}' --quiet --fix",
     "prepublish": "yarn build && yarn types",
