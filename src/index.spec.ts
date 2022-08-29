@@ -16,4 +16,9 @@ describe('script tests', () => {
     expect(getIPA('அம்மா')).toEqual('ammaː');
     expect(getIPA('பாடசாலைக்கு சென்றேன்')).toEqual('paːɖat͡ɕaːlaɪkku t͡ɕenreːn');
   });
+
+  it('keeps other characters untouched', () => {
+    expect(getIPA('"";அம்!மா&&=')).toEqual('"";am!maː&&=');
+    expect(getIso15919('+அம்!மா--!')).toEqual('+am!mā--!');
+  });
 });
