@@ -23,8 +23,8 @@ export const getIso15919 = (phrase: string) => {
     .split(' ')
     .map((word) => {
       return word
-        .match(/[\u0b80-\u0bff][\u0bbe-\u0bcd\u0bd7]?/gi)
-        .map((char) => iso15919Map[char])
+        .match(/([\u0b80-\u0bff][\u0bbe-\u0bcd\u0bd7]?)|[`!@#$%^&*()_+\-=\[\]{};':"\\|,.<>\/?~]+/gi)
+        .map((char) => iso15919Map[char] || char)
         .join('');
     })
     .join(' ');
@@ -39,8 +39,8 @@ export const getIPA = (phrase: string) => {
     .split(' ')
     .map((word) => {
       return word
-        .match(/[\u0b80-\u0bff][\u0bbe-\u0bcd\u0bd7]?/gi)
-        .map((char) => ipaMap[char])
+        .match(/([\u0b80-\u0bff][\u0bbe-\u0bcd\u0bd7]?)|[`!@#$%^&*()_+\-=\[\]{};':"\\|,.<>\/?~]+/gi)
+        .map((char) => ipaMap[char] || char)
         .join('');
     })
     .join(' ');
