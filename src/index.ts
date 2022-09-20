@@ -15,6 +15,7 @@ export type Options = {
 };
 
 export const script = data as Script[][];
+export const granthaScript = grantha as Script[][];
 
 export const getIso15919 = (phrase: string, options?: Options) => {
   const iso15919Map = [...script, ...(options?.grantha ? grantha : [])]
