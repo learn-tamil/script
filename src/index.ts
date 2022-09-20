@@ -1,4 +1,5 @@
 import data from './script.json';
+import grantha from './grantha.json';
 
 export type Script = {
   index: number;
@@ -9,10 +10,14 @@ export type Script = {
   ipa: string;
 };
 
+export type Options = {
+  grantha: boolean;
+};
+
 export const script = data as Script[][];
 
-export const getIso15919 = (phrase: string) => {
-  const iso15919Map = script
+export const getIso15919 = (phrase: string, options?: Options) => {
+  const iso15919Map = [...script, ...(options?.grantha ? grantha : [])]
     .flat()
     .reduce(
       (scripts, newScript) => ({ ...scripts, [newScript.script]: newScript.iso15919 }),
@@ -30,8 +35,8 @@ export const getIso15919 = (phrase: string) => {
     .join(' ');
 };
 
-export const getIPA = (phrase: string) => {
-  const ipaMap = script
+export const getIPA = (phrase: string, options?: Options) => {
+  const ipaMap = [...script, ...(options?.grantha ? grantha : [])]
     .flat()
     .reduce((scripts, newScript) => ({ ...scripts, [newScript.script]: newScript.ipa }), {} as Record<string, string>);
 

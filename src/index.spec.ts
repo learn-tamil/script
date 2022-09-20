@@ -21,4 +21,12 @@ describe('script tests', () => {
     expect(getIPA('"";அம்!மா&&=')).toEqual('"";am!maː&&=');
     expect(getIso15919('+அம்!மா--!')).toEqual('+am!mā--!');
   });
+
+  it('takes grantha scripts into account', () => {
+    expect(getIPA('"";அம்!மாஜ்&&=')).toEqual('"";am!maːஜ்&&=');
+    expect(getIso15919('+அம்!மாஜ்--!')).toEqual('+am!māஜ்--!');
+
+    expect(getIPA('"";அம்!மாஜ்&&=', { grantha: true })).toEqual('"";am!maːd͡ʑ&&=');
+    expect(getIso15919('+அம்!மாஜ்--!', { grantha: true })).toEqual('+am!māj--!');
+  });
 });
