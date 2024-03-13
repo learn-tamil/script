@@ -10,3 +10,9 @@ updates:
   - rathesDot
   assignees:
   - rathesDot
+  groups:
+    eslint:
+      patterns:
+        - "eslint"
+        - "eslint-*"
+        - "@typescript-eslint/*"
