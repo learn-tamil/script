@@ -1,9 +1,9 @@
-import typescriptParser from '@typescript-eslint/parser';
+import typescriptEslint from 'typescript-eslint';
 
 export default [
   {
     languageOptions: {
-      parser: typescriptParser,
+      parser: typescriptEslint.parser,
       ecmaVersion: 2018,
       sourceType: 'module',
     },
