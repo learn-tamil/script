@@ -18,7 +18,7 @@
   "private": false,
   "devDependencies": {
     "@types/jest": "^29.5.12",
-    "esbuild": "^0.20.2",
+    "esbuild": "^0.21.0",
     "eslint": "^9.2.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-prettier": "^5.1.3",
