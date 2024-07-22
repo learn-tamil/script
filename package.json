@@ -15,7 +15,6 @@
   "homepage": "https://github.com/learn-tamil/tamil-script#readme",
   "author": "Rathes Sachchithananthan <rathes@aheenam.com>",
   "license": "MIT",
-  "private": false,
   "devDependencies": {
     "@types/jest": "^29.5.12",
     "esbuild": "^0.23.0",
@@ -40,5 +39,5 @@
   "files": [
     "lib"
   ],
-  "packageManager": "yarn@1.22.22+sha1.ac34549e6aa8e7ead463a7407e1c7390f61a6610"
+  "packageManager": "yarn@4.3.1"
 }
