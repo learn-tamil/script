@@ -10,6 +10,11 @@ jobs:
     steps:
       - name: Checkout codebase
         uses: actions/checkout@v2
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Enable Corepack
+        run: corepack enable
       - name: Install dependencies
         run: yarn install
       - name: Check prettier
