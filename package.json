@@ -16,7 +16,7 @@
   "author": "Rathes Sachchithananthan <rathes@aheenam.com>",
   "license": "MIT",
   "devDependencies": {
-    "@types/jest": "^29.5.13",
+    "@types/jest": "^29.5.14",
     "esbuild": "^0.24.0",
     "eslint": "^9.11.1",
     "eslint-config-prettier": "^9.1.0",
