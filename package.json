@@ -32,7 +32,7 @@
     "build": "rm -rf ./lib && esbuild ./src/index.ts --bundle --outfile=./lib/index.js --format=esm",
     "format": "prettier --write './src/**/*.{js,json,md,css}'",
     "lint": "tsc --noEmit && eslint '*/**/*.{js,ts,tsx}' --quiet --fix",
-    "prepublish": "yarn build && yarn types",
+    "prepack": "yarn build && yarn types",
     "test": "jest",
     "test:watch": "jest --watch",
     "types": "tsc --project tsconfig.json --emitDeclarationOnly"
