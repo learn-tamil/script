@@ -26,7 +26,7 @@
     "ts-jest": "^29.4.0",
     "tslib": "^2.8.1",
     "typescript": "^5.8.3",
-    "typescript-eslint": "^8.35.0"
+    "typescript-eslint": "^8.46.0"
   },
   "scripts": {
     "build": "rm -rf ./lib && esbuild ./src/index.ts --bundle --outfile=./lib/index.js --format=esm",
