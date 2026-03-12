@@ -5,6 +5,13 @@
   "module": "./lib/index.js",
   "type": "module",
   "types": "./lib/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./lib/index.d.ts",
+      "import": "./lib/index.js"
+    }
+  },
+  "sideEffects": false,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/learn-tamil/tamil-script.git"
