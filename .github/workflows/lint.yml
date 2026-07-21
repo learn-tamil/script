@@ -9,43 +9,46 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout codebase
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
+      - name: Enable Corepack
+        run: corepack enable
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - name: Enable Corepack
-        run: corepack enable
+          cache: pnpm
       - name: Install dependencies
-        run: yarn install
+        run: pnpm install --frozen-lockfile
       - name: Check prettier
-        run: yarn format --check
+        run: pnpm format --check
 
   eslint:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout codebase
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
+      - name: Enable Corepack
+        run: corepack enable
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - name: Enable Corepack
-        run: corepack enable
+          cache: pnpm
       - name: Install dependencies
-        run: yarn install
+        run: pnpm install --frozen-lockfile
       - name: Check eslint
-        run: yarn eslint
+        run: pnpm eslint
 
   type-check:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout codebase
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
+      - name: Enable Corepack
+        run: corepack enable
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - name: Enable Corepack
-        run: corepack enable
+          cache: pnpm
       - name: Install dependencies
-        run: yarn install
+        run: pnpm install --frozen-lockfile
       - name: Check types
-        run: yarn tsc --noEmit
+        run: pnpm tsc --noEmit

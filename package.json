@@ -39,7 +39,7 @@
     "build": "rm -rf ./lib && esbuild ./src/index.ts --bundle --outfile=./lib/index.js --format=esm",
     "format": "prettier --write './src/**/*.{js,json,md,css}'",
     "lint": "tsc --noEmit && eslint '*/**/*.{js,ts,tsx}' --quiet --fix",
-    "prepack": "yarn build && yarn types",
+    "prepack": "pnpm build && pnpm types",
     "test": "jest",
     "test:watch": "jest --watch",
     "types": "tsc --project tsconfig.json --emitDeclarationOnly"
@@ -47,5 +47,5 @@
   "files": [
     "lib"
   ],
-  "packageManager": "yarn@4.7.0"
+  "packageManager": "pnpm@9.15.0"
 }
