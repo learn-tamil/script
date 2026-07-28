@@ -17,11 +17,11 @@ export type Options = {
 export const script = data as Script[][];
 export const granthaScript = grantha as Script[][];
 
-export const getIso15919 = (phrase: string, options?: Options) => {
-  const iso15919Map = [...script, ...(options?.grantha ? grantha : [])]
+const transliterate = (phrase: string, notation: 'romanization' | 'iso15919' | 'ipa', options?: Options) => {
+  const notationMap = [...script, ...(options?.grantha ? grantha : [])]
     .flat()
     .reduce(
-      (scripts, newScript) => ({ ...scripts, [newScript.script]: newScript.iso15919 }),
+      (scripts, newScript) => ({ ...scripts, [newScript.script]: newScript[notation] }),
       {} as Record<string, string>,
     );
 
@@ -31,27 +31,16 @@ export const getIso15919 = (phrase: string, options?: Options) => {
       return (
         word.match(/([\u0b80-\u0bff][\u0bbe-\u0bcd\u0bd7]?)|[`!@#$%^&*()_+\-=\[\]{};':"\\|,.<>\/?~]+/gi) ?? [word]
       )
-        .map((char) => iso15919Map[char] || char)
+        .map((char) => notationMap[char] || char)
         .join('');
     })
     .join(' ');
 };
 
-export const getIPA = (phrase: string, options?: Options) => {
-  const ipaMap = [...script, ...(options?.grantha ? grantha : [])]
-    .flat()
-    .reduce((scripts, newScript) => ({ ...scripts, [newScript.script]: newScript.ipa }), {} as Record<string, string>);
+export const getIso15919 = (phrase: string, options?: Options) => transliterate(phrase, 'iso15919', options);
 
-  return phrase
-    .split(' ')
-    .map((word) => {
-      return (
-        word.match(/([\u0b80-\u0bff][\u0bbe-\u0bcd\u0bd7]?)|[`!@#$%^&*()_+\-=\[\]{};':"\\|,.<>\/?~]+/gi) ?? [word]
-      )
-        .map((char) => ipaMap[char] || char)
-        .join('');
-    })
-    .join(' ');
-};
+export const getIPA = (phrase: string, options?: Options) => transliterate(phrase, 'ipa', options);
+
+export const getRomanization = (phrase: string, options?: Options) => transliterate(phrase, 'romanization', options);
 
 export default data as Script[][];
