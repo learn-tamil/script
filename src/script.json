@@ -1,6 +1,6 @@
 [
   [
-    { "index": 0, "romanization": "q", "script": "ஃ", "iso15919": "x", "ipa": "ḵ" },
+    { "index": 0, "romanization": "q", "script": "ஃ", "iso15919": "ḵ", "ipa": "x" },
     { "index": 1, "romanization": "a", "script": "அ", "iso15919": "a", "ipa": "a" },
     { "index": 2, "romanization": "aa", "script": "ஆ", "iso15919": "ā", "ipa": "aː" },
     { "index": 3, "romanization": "i", "script": "இ", "iso15919": "i", "ipa": "i" },

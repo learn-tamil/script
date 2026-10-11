@@ -5,8 +5,8 @@ exports[`script tests exports scripts from json 1`] = `
   [
     {
       "index": 0,
-      "ipa": "ḵ",
-      "iso15919": "x",
+      "ipa": "x",
+      "iso15919": "ḵ",
       "romanization": "q",
       "script": "ஃ",
     },
