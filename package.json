@@ -1,6 +1,6 @@
 {
   "name": "@learn-tamil/script",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "main": "./lib/index.js",
   "module": "./lib/index.js",
   "type": "module",
@@ -14,12 +14,12 @@
   "sideEffects": false,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/learn-tamil/tamil-script.git"
+    "url": "git+https://github.com/learn-tamil/script.git"
   },
   "bugs": {
-    "url": "https://github.com/learn-tamil/tamil-script/issues"
+    "url": "https://github.com/learn-tamil/script/issues"
   },
-  "homepage": "https://github.com/learn-tamil/tamil-script#readme",
+  "homepage": "https://github.com/learn-tamil/script#readme",
   "author": "Rathes Sachchithananthan <rathes@aheenam.com>",
   "license": "MIT",
   "devDependencies": {
