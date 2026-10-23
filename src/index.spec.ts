@@ -1,10 +1,17 @@
-import script, { getIso15919, getIPA, getRomanization } from './index';
+import script, { granthaScript, getIso15919, getIPA, getRomanization } from './index';
 
 describe('script tests', () => {
   it('exports scripts from json', () => {
     expect(script).toMatchSnapshot();
     expect(Array.isArray(script)).toBeTruthy();
     expect(script.length).toBe(19);
+  });
+
+  it('exports the grantha letters in the same shape as the script', () => {
+    expect(granthaScript).toMatchSnapshot();
+    expect(granthaScript.length).toBe(6);
+    expect(granthaScript.every((row) => row.length === 13)).toBeTruthy();
+    expect(granthaScript[0][0].index).toBe(script.flat().length);
   });
 
   it('builds the iso 15919 for word', () => {
@@ -29,12 +36,25 @@ describe('script tests', () => {
   });
 
   it('takes grantha scripts into account', () => {
-    expect(getIPA('"";அம்!மாஜ்&&=')).toEqual('"";am!maːஜ்&&=');
-    expect(getIso15919('+அம்!மாஜ்--!')).toEqual('+am!māஜ்--!');
-    expect(getRomanization('+அம்!மாஜ்--!')).toEqual('+am!maaஜ்--!');
+    expect(getIPA('"";அம்!மாஜ்&&=')).toEqual('"";am!maːd͡ʑ&&=');
+    expect(getIso15919('+அம்!மாஜ்--!')).toEqual('+am!māj--!');
+    expect(getRomanization('+அம்!மாஜ்--!')).toEqual('+am!maaj--!');
 
-    expect(getIPA('"";அம்!மாஜ்&&=', { grantha: true })).toEqual('"";am!maːd͡ʑ&&=');
-    expect(getIso15919('+அம்!மாஜ்--!', { grantha: true })).toEqual('+am!māj--!');
-    expect(getRomanization('+அம்!மாஜ்--!', { grantha: true })).toEqual('+am!maaj--!');
+    expect(getIPA('"";அம்!மாஜ்&&=', { grantha: false })).toEqual('"";am!maːஜ்&&=');
+    expect(getIso15919('+அம்!மாஜ்--!', { grantha: false })).toEqual('+am!māஜ்--!');
+    expect(getRomanization('+அம்!மாஜ்--!', { grantha: false })).toEqual('+am!maaஜ்--!');
+  });
+
+  it('transliterates grantha letters with a vowel', () => {
+    expect(getIso15919('ஜன்னல்')).toEqual('jaṉṉal');
+    expect(getIPA('ஜன்னல்')).toEqual('d͡ʑannal');
+    expect(getIso15919('சந்தோஷம்')).toEqual('cantōṣam');
+    expect(getIPA('சந்தோஷம்')).toEqual('t͡ɕan̪toːʂam');
+    expect(getIso15919('கஷ்டம்')).toEqual('kaṣṭam');
+    expect(getIso15919('ஹோட்டல்')).toEqual('hōṭṭal');
+    expect(getIso15919('ஸ்ரீ')).toEqual('srī');
+    expect(getIso15919('பக்ஷி')).toEqual('pakṣi');
+    expect(getRomanization('ஜூஸ்')).toEqual('juus');
+    expect(getIso15919('ஜன்னல்', { grantha: false })).toEqual('ஜṉṉal');
   });
 });

@@ -24,7 +24,8 @@ script[1][1]; // { index: 14, romanization: 'ka', script: 'க', iso15919: 'ka',
 ```
 
 The same data is available as the named export `script`. Letters borrowed from the Grantha script
-(`ஜ்`, `ஶ்`, `ஷ்`, `ஸ்`, `ஹ்` and `க்ஷ்`) are kept separately in `granthaScript`.
+(`ஜ்`, `ஶ்`, `ஷ்`, `ஸ்`, `ஹ்` and `க்ஷ்`) are kept separately in `granthaScript`, in the same shape: one row per
+consonant with its vowel forms, numbered on from `script`.
 
 Transliteration
 ---
@@ -44,11 +45,13 @@ getIPA('பாடசாலைக்கு சென்றேன்'); // 'paːɖ
 - `getIso15919` – the [ISO 15919](https://en.wikipedia.org/wiki/ISO_15919) standard for romanizing Indic scripts
 - `getIPA` – the [International Phonetic Alphabet](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet)
 
-Grantha letters are left as they are unless you opt in to them:
+Letters borrowed from the Grantha script are transliterated too, on their own and with a vowel. Pass
+`{ grantha: false }` to leave them as they are:
 
 ```js
-getIso15919('ஜ்'); // 'ஜ்'
-getIso15919('ஜ்', { grantha: true }); // 'j'
+getIso15919('ஜன்னல்'); // 'jaṉṉal'
+getIPA('சந்தோஷம்'); // 't͡ɕan̪toːʂam'
+getIso15919('ஜன்னல்', { grantha: false }); // 'ஜṉṉal'
 ```
 
 Contribution
