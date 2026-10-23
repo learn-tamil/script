@@ -45,6 +45,13 @@ describe('script tests', () => {
     expect(getRomanization('+அம்!மாஜ்--!', { grantha: false })).toEqual('+am!maaஜ்--!');
   });
 
+  it('keeps the grantha option apart between calls', () => {
+    expect(getIso15919('ஜன்னல்')).toEqual('jaṉṉal');
+    expect(getIso15919('ஜன்னல்', { grantha: false })).toEqual('ஜṉṉal');
+    expect(getIso15919('ஜன்னல்')).toEqual('jaṉṉal');
+    expect(getIPA('ஜன்னல்', { grantha: false })).toEqual('ஜnnal');
+  });
+
   it('transliterates grantha letters with a vowel', () => {
     expect(getIso15919('ஜன்னல்')).toEqual('jaṉṉal');
     expect(getIPA('ஜன்னல்')).toEqual('d͡ʑannal');

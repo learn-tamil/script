@@ -17,13 +17,24 @@ export type Options = {
 export const script = data as Script[][];
 export const granthaScript = grantha as Script[][];
 
-const transliterate = (phrase: string, notation: 'romanization' | 'iso15919' | 'ipa', options?: Options) => {
-  const notationMap = [...script, ...(options?.grantha === false ? [] : grantha)]
-    .flat()
-    .reduce(
-      (scripts, newScript) => ({ ...scripts, [newScript.script]: newScript[notation] }),
-      {} as Record<string, string>,
+type Notation = 'romanization' | 'iso15919' | 'ipa';
+
+const notationMaps = new Map<string, Record<string, string>>();
+
+const getNotationMap = (notation: Notation, withGrantha: boolean) => {
+  const key = `${notation}:${withGrantha}`;
+  let notationMap = notationMaps.get(key);
+  if (!notationMap) {
+    notationMap = Object.fromEntries(
+      [...script, ...(withGrantha ? grantha : [])].flat().map((letter) => [letter.script, letter[notation]]),
     );
+    notationMaps.set(key, notationMap);
+  }
+  return notationMap;
+};
+
+const transliterate = (phrase: string, notation: Notation, options?: Options) => {
+  const notationMap = getNotationMap(notation, options?.grantha !== false);
 
   return phrase
     .split(' ')
