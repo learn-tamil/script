@@ -11,14 +11,14 @@ export type Script = {
 };
 
 export type Options = {
-  grantha: boolean;
+  grantha?: boolean;
 };
 
 export const script = data as Script[][];
 export const granthaScript = grantha as Script[][];
 
 const transliterate = (phrase: string, notation: 'romanization' | 'iso15919' | 'ipa', options?: Options) => {
-  const notationMap = [...script, ...(options?.grantha ? grantha : [])]
+  const notationMap = [...script, ...(options?.grantha === false ? [] : grantha)]
     .flat()
     .reduce(
       (scripts, newScript) => ({ ...scripts, [newScript.script]: newScript[notation] }),
